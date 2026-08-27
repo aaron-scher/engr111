@@ -19,7 +19,7 @@ Syllabus: *(link to come)*
 - [Homework 6: Ethics and What You Owe](reflection-ethics.html)
 - [Homework 7: Measure, Convert, Plot](homework-measure-convert-plot.html)
 
-## Conversations
+## Conversation Assignments
 
 - [Conversation 1: Meet an Adviser](homework-meet-an-adviser.html)
 - [Conversation 2: Informational Interview](homework-informational-interview.html)
