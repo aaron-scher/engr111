@@ -5,20 +5,20 @@ layout: default
 
 # Reading List
 
-Landis, Peuker and Mott, *Studying Engineering: A Road Map to a Rewarding Career*. Page numbers refer to the 5th edition.
+Landis, Peuker and Mott, *Studying Engineering: A Road Map to a Rewarding Career*, 5th edition.
 
 ## Week by week
 
-| Week | Sections | Pages |
-|:--|:--|--:|
-| 1 | **2.1** What is Engineering? · **2.4** Rewards and Opportunities · **2.5** Greatest Achievements · **2.6** Engineering Disciplines · **2.7** Job Functions · **Appendix B**, 21 definitions · **Appendix E**, read the two pages on your own discipline | 2.1: 38–40 · 2.4–2.7: 51–71 · B: 309–310 · E: 316–337, pick two pages |
-| 2 | **2.2** The Engineering Design Process · **2.3** Case Study: Human-Powered Helicopter | 40–51 |
-| 3 | **Chapter 1**, Keys to Success in Engineering Study. 1.2 (what is success, goal setting) and 1.3 (effort, approach, attitude) are the core · **Felder, *Survival Guide*** (PDF, 8 pages) | 7–36, plus 8 |
-| 4 | **Chapter 3**, the teaching/learning process; 3.2 (how we learn) and 3.3 (metacognition) are the core · **Chapter 4**, making the most of how you are taught; 4.2–4.4 (before, during, after lectures; using professors) | 3: 91–110 · 4: 118–138 |
-| 5 | **Chapter 5**, making the learning process work; 5.2 (organizing, procrastination, time) twice · **6.1–6.5**, receptiveness to change, the three steps to change, understanding yourself and others, self-assessment · the box in **6.6**, "Lessons from NASA on Communication" | 5: 142–171 · 6.1–6.5: 175–203 · box: 205 |
-| 6 | **6.6–6.9**, communication, leadership and teamwork, wellness, motivation · **7.1–7.3**, student organizations, engineering projects, pre-professional employment · **8.4**, academic advising | 6.6–6.9: 203–231 · 7.1–7.3: 233–259 · 8.4: 280–282 |
-| 7 | **8.6**, Engineering Ethics | 290–292 |
-| 8–10 | none assigned | |
+| Week | Sections |
+|:--|:--|
+| 1 | **2.1** What is Engineering? · **2.4** Rewards and Opportunities · **2.5** Greatest Achievements · **2.6** Engineering Disciplines · **2.7** Job Functions · **Appendix B**, 21 definitions · **Appendix E**, read the two pages on your own discipline |
+| 2 | **2.2** The Engineering Design Process · **2.3** Case Study: Human-Powered Helicopter |
+| 3 | **Chapter 1**, Keys to Success in Engineering Study. 1.2 (what is success, goal setting) and 1.3 (effort, approach, attitude) are the core · **Felder, *Survival Guide*** (PDF, 8 pages) |
+| 4 | **Chapter 3**, the teaching/learning process; 3.2 (how we learn) and 3.3 (metacognition) are the core · **Chapter 4**, making the most of how you are taught; 4.2–4.4 (before, during, after lectures; using professors) |
+| 5 | **Chapter 5**, making the learning process work; 5.2 (organizing, procrastination, time) twice · **6.1–6.5**, receptiveness to change, the three steps to change, understanding yourself and others, self-assessment · the box in **6.6**, "Lessons from NASA on Communication" |
+| 6 | **6.6–6.9**, communication, leadership and teamwork, wellness, motivation · **7.1–7.3**, student organizations, engineering projects, pre-professional employment · **8.4**, academic advising |
+| 7 | **8.6**, Engineering Ethics |
+| 8–10 | none assigned |
 
 ## Three errors in the book
 
