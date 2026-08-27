@@ -45,6 +45,24 @@ Syllabus: *(link to come)*
 - [Project: Specification](project-specification.html)
 - [Final Paper: Design Your Process](final-paper.html)
 
+## Lectures
+
+- [Lecture 1: What Is Engineering?](lectures/lecture-01-what-is-engineering.pdf)
+- [Lecture 2: The Engineering Disciplines](lectures/lecture-02-the-engineering-disciplines.pdf)
+- [Lecture 3: The Engineering Design Process](lectures/lecture-03-the-engineering-design-process.pdf)
+- [Lecture 4: Defining the Problem](lectures/lecture-04-defining-the-problem.pdf)
+- [Lecture 5: Criteria, Constraints and Decision Matrices](lectures/lecture-05-criteria-constraints-and-decision-matrices.pdf)
+- [Lecture 6: Keys to Success in Engineering Study](lectures/lecture-06-keys-to-success-in-engineering-study.pdf)
+- [Lecture 7: How People Learn](lectures/lecture-07-how-people-learn.pdf)
+- [Lecture 8: Job Functions and the Technology Team](lectures/lecture-08-job-functions-and-the-technology-team.pdf)
+- [Lecture 9: Unit Conversions and Dimensional Analysis](lectures/lecture-09-unit-conversions-and-dimensional-analysis.pdf)
+- [Lecture 10: A Common Basis](lectures/lecture-10-a-common-basis.pdf)
+- [Lecture 11: Transfer, Advising and Your Educational Plan](lectures/lecture-11-transfer-advising-and-your-educational-plan.pdf)
+- [Lecture 13: Ethics and Professional Licensure](lectures/lecture-13-ethics-and-professional-licensure.pdf)
+- [Lecture 14: Estimation, Measurement and Error](lectures/lecture-14-estimation-measurement-and-error.pdf)
+- [Lecture 16: Presenting Technical Information](lectures/lecture-16-presenting-technical-information.pdf)
+- [Lecture 18: What Comes Next](lectures/lecture-18-what-comes-next.pdf)
+
 ## Reading
 
 - [Reading list](reading-list.html)
