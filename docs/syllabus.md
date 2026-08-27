@@ -7,7 +7,7 @@ layout: default
 
 **Clackamas Community College · Fall 2026 · Section 01 · 3 credits · Online, live sessions**
 
-**Instructor:** Dr. Aaron Scher · [instructor email] · Office hours by appointment: [booking link]
+**Instructor:** Dr. Aaron Scher · [instructor email]
 
 **Class meetings:** Monday and Wednesday, 8:30 to 9:50 AM Pacific, on Zoom. The Zoom link is in Moodle. First session Monday, September 28. Final session Wednesday, December 9, **8:00 to 9:50** (note the earlier start).
 
