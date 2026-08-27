@@ -73,7 +73,7 @@ You can use AI tools in this course. Use them the way you would use a good tutor
 
 Two rules.
 
-**The work is yours.** What you give the tool comes from your own thinking, your own measurements, your own conversations, and what you submit says what you actually think. I grade your work, not the tool's. If a submission reads as something the tool wrote and you passed along, it will not do well, and not because I am hunting for it: the answers will not be connected to anything real.
+**The work is yours.** What you give the tool comes from your own thinking, your own measurements, your own conversations, and what you submit says what you actually think. I grade your work, not the tool's. Points will be deducted if a submission reads like something a tool wrote and you passed along without checking, editing, and making it your own, or if it does not reflect your own work.
 
 **You are responsible for the output.** Read what it gives you. Check it. It invents facts, it gets arithmetic and units wrong, and it will describe an object it has never seen. If a mistake it made ends up in your submission, it is your mistake.
 
