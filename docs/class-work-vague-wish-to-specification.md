@@ -5,7 +5,7 @@ layout: default
 
 # In-Class Work 2: From a Vague Wish to a Real Specification
 
-**We do this live in class.** You'll be in a breakout room for 35 minutes.
+**We do this live in class.** You'll be in a small breakout room for about 35 minutes. I'll tell you the exact time in class.
 
 Your group has a customer. The customer has told you what they want, and what they've told you is useless.
 

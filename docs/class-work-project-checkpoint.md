@@ -5,14 +5,14 @@ layout: default
 
 # In-Class Work 6: Project Checkpoint
 
-**We do this live in class.** Breakout rooms of four, running most of the session, then the room stays open for anyone who wants to stick around and ask me things.
+**We do this live in class.** Small breakout rooms, running most of the session, then the room stays open for anyone who wants to stick around and ask me things.
 
 Come having read my feedback on your proposal.
 
 Each person gets about eight minutes:
 
-1. Describe your project in two minutes. What it is, what it has to do, how you'll know it works
-2. The group asks questions for three minutes. Useful questions: what happens if that part doesn't fit? How are you measuring that? What's your backup if the sensor doesn't arrive?
+1. Describe your project in about two minutes. What it is, what it has to do, how you'll know it works
+2. The group asks questions for about three minutes. Useful questions: what happens if that part doesn't fit? How are you measuring that? What's your backup if the sensor doesn't arrive?
 3. The group names, out loud, **the single biggest risk to that project finishing on time**. Not a list. One thing
 
 **One person posts for the group** to the In-Class Work 6 forum:

@@ -5,7 +5,7 @@ layout: default
 
 # In-Class Work 4: Job Functions
 
-**We do this live in class.** Breakout rooms of four, 25 minutes.
+**We do this live in class.** Small breakout rooms, about 25 minutes. I'll tell you the exact time in class.
 
 In your room:
 

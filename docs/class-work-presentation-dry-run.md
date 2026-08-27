@@ -5,7 +5,7 @@ layout: default
 
 # In-Class Work 8: Presentation Dry Run
 
-**We do this live in class.** Breakout rooms of four.
+**We do this live in class.** Small breakout rooms.
 
 Everyone presents for six minutes, exactly as you will for the real thing. Share your screen. Use your actual slides. If your demo isn't ready, describe what it will be.
 

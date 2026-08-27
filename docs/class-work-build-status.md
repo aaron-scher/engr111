@@ -5,7 +5,7 @@ layout: default
 
 # In-Class Work 7: Build Status and Risk
 
-**We do this live in class.** Breakout rooms of four. Same format as the project checkpoint, different questions, and by now everyone should have something physical or something running.
+**We do this live in class.** Small breakout rooms. Same format as the project checkpoint, different questions, and by now everyone should have something physical or something running.
 
 Each person gets about eight minutes:
 

@@ -5,7 +5,7 @@ layout: default
 
 # In-Class Work 1: Who Built This?
 
-**We do this live in class.** You will be placed into a breakout room and have 20 minutes.
+**We do this live in class.** You'll be placed into a small breakout room for about 20 minutes. I'll tell you the exact time in class.
 
 **Your technology, by room number:**
 
