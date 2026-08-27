@@ -46,4 +46,3 @@ Notice how many of these are ordinary. The best projects in this course are usua
 - **Parts and tutorials for anything with electronics in it:** [SparkFun](https://www.sparkfun.com) and [Adafruit](https://www.adafruit.com), both of which sell the parts and write the tutorials that go with them
 - **Free software:** [Tinkercad](https://www.tinkercad.com) for simple 3D modeling and for simulating Arduino circuits in the browser before you buy anything
 
-Not sure where to start? Ask me, and ask the CCC instructors in the field you're building in.
