@@ -39,6 +39,4 @@ Notice how many of these are ordinary. The best projects in this course are usua
 - **Don't wait.** Parts take two weeks to arrive. The first build never works. People who start in the last two weeks do not get their project to work, and the presentation shows it
 - **Measure something.** Every project needs at least one number you measured that says whether it met its specifications. "It works" is not a result
 
-**Resources by discipline**
-
-Coming. For now: ask me, and ask the CCC instructors in the field you're building in.
+**Parts, tools, and software.** Not sure where to start? Ask me, and ask the CCC instructors in the field you're building in.
