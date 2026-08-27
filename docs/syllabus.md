@@ -93,10 +93,6 @@ Everything you submit for credit is your own work. Study together, argue about t
 
 Anything beyond that is covered by CCC's Student Code of Conduct, which defines academic misconduct as "actual or attempted fraud, deceit, or unauthorized use of materials prohibited or inappropriate in the context of the academic assignment." I would rather never open that document. If the work is yours, we never will.
 
-## A note on time zones
-
-I teach this course from Prague, nine hours ahead of Oregon. Our 8:30 AM session is my late afternoon. Email works at any hour; expect replies during Oregon's morning and evening rather than mid-afternoon.
-
 ## College resources and policies
 
 - **Disability Resource Center.** If you have a disability and want accommodations, contact the DRC (drc@clackamas.edu) early in the term; they will work with both of us. [clackamas.edu/student-life/student-services/disability-resource-center](https://www.clackamas.edu/student-life/student-services/disability-resource-center)

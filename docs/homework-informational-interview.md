@@ -26,7 +26,7 @@ This is not a job interview and you should not treat it as one. You're gathering
    Short, specific, easy to say yes to, and no ask beyond twenty minutes. Send ten of these. You do not need ten yeses, you need one
 4. **A CCC instructor.** This one is guaranteed. Every instructor here who teaches in a technical field has an engineering or science background and a job you could ask about. Email one and ask for twenty minutes. **If everything else fails, this is your answer**, and it is a real informational interview, not a consolation prize
 
-**What I will and won't do.** I'll look over your outreach message before you send it, and I'll help you think about who to approach. Ask me. I won't hand you a contact. I teach this course from Prague and my network isn't in Oregon, and honestly, doing the finding yourself is the half of this assignment that will still be paying off in ten years.
+**What I will and won't do.** I'll look over your outreach message before you send it, and I'll help you think about who to approach. Ask me. I won't hand you a contact. Doing the finding yourself is the half of this assignment that will still be paying off in ten years.
 
 **What to submit**
 
