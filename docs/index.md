@@ -5,6 +5,10 @@ layout: default
 
 # ENGR-111: Introduction to Engineering
 
+Instructor: Dr. Aaron Scher
+
+Syllabus: *(link to come)*
+
 ## Homework
 
 - [Homework 1: About You](homework-about-you.html)
