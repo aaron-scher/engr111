@@ -35,7 +35,7 @@ Notice how many of these are ordinary. The best projects in this course are usua
 
 **Three things that decide whether it goes well**
 
-- **Keep the scope small.** The most common mistake is a project that is too ambitious on day one. Choose something you are confident you can finish; if you finish early, add a feature. It is much easier to add to a small project than to rescue a big one late in the term
+- **Keep the scope realistic.** The most common mistake is a project that is too ambitious on day one. Choose something you are confident you can finish; if you finish early, add a feature. It is much easier to add to a project that works than to rescue one that was too big
 - **Start early.** Parts take time to arrive and the first build rarely works. Projects that start late usually don't get finished, and it shows in the presentation
 - **Measure something.** Every project needs at least one number you measured that shows whether it met its specifications. "It works" is not a result
 
