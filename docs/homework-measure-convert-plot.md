@@ -39,4 +39,4 @@ Both figures need:
 - Readability in grayscale
 - No chart junk
 
-Grading and the AI policy are in the syllabus. You'll get feedback on your figure design.
+Grading and the AI policy are in the syllabus.
