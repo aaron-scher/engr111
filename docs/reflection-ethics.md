@@ -1,9 +1,9 @@
 ---
-title: "Homework 8: Ethics and What You Owe"
+title: "Homework 6: Ethics and What You Owe"
 layout: default
 ---
 
-# Homework 8: Ethics and What You Owe
+# Homework 6: Ethics and What You Owe
 
 Between 300 and 500 words. Do the ethics reading first, then answer both:
 

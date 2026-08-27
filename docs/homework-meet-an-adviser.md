@@ -1,9 +1,9 @@
 ---
-title: "Homework 5: Meet an Adviser"
+title: "Conversation 1: Meet an Adviser"
 layout: default
 ---
 
-# Homework 5: Meet an Adviser
+# Conversation 1: Meet an Adviser
 
 Meet with an academic adviser and leave with a term-by-term plan that gets you to transfer.
 

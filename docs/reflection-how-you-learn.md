@@ -1,9 +1,9 @@
 ---
-title: "Homework 6: How You Learn"
+title: "Homework 5: How You Learn"
 layout: default
 ---
 
-# Homework 6: How You Learn
+# Homework 5: How You Learn
 
 Between 300 and 500 words. Answer both:
 

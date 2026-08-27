@@ -1,9 +1,9 @@
 ---
-title: "Homework 7: Informational Interview"
+title: "Conversation 2: Informational Interview"
 layout: default
 ---
 
-# Homework 7: Informational Interview
+# Conversation 2: Informational Interview
 
 Have a twenty-minute conversation with someone who does technical work for a living. Not a student. Someone doing the job.
 

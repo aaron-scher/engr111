@@ -1,9 +1,9 @@
 ---
-title: "Homework 9: Measure, Convert, Plot"
+title: "Homework 7: Measure, Convert, Plot"
 layout: default
 ---
 
-# Homework 9: Measure, Convert, Plot
+# Homework 7: Measure, Convert, Plot
 
 Three parts, one submission.
 

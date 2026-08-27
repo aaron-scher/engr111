@@ -11,11 +11,14 @@ layout: default
 - [Homework 2: Career Numbers](homework-career-numbers.html)
 - [Homework 3: Which Engineering, and What Is It?](reflection-which-engineering.html)
 - [Homework 4: Keys to Success](reflection-keys-to-success.html)
-- [Homework 5: Meet an Adviser](homework-meet-an-adviser.html)
-- [Homework 6: How You Learn](reflection-how-you-learn.html)
-- [Homework 7: Informational Interview](homework-informational-interview.html)
-- [Homework 8: Ethics and What You Owe](reflection-ethics.html)
-- [Homework 9: Measure, Convert, Plot](homework-measure-convert-plot.html)
+- [Homework 5: How You Learn](reflection-how-you-learn.html)
+- [Homework 6: Ethics and What You Owe](reflection-ethics.html)
+- [Homework 7: Measure, Convert, Plot](homework-measure-convert-plot.html)
+
+## Conversations
+
+- [Conversation 1: Meet an Adviser](homework-meet-an-adviser.html)
+- [Conversation 2: Informational Interview](homework-informational-interview.html)
 
 ## In-class work
 
