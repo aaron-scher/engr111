@@ -1,0 +1,8 @@
+# instructor-only and derived material never leaves this machine
+_notes/
+attachments/
+*.docx
+_source/
+.DS_Store
+~$*
+_site/
