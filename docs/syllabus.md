@@ -114,36 +114,36 @@ Anything beyond that is covered by CCC's Student Code of Conduct, which defines 
 
 ## Schedule
 
-Assignments open on Monday unless noted and are due at 11:59 PM Pacific on the day shown. In-class work is due at the end of its session.
+Lectures are numbered by session; the Wednesdays without a lecture are in-class work only. Assignments are due at 11:59 PM Pacific on the day shown; in-class work is posted by the end of its session. Half the class presents on December 2 and half on December 9; the groups are assigned in Moodle.
 
-| Date | Session | Due |
-|:--|:--|:--|
-| Mon Sep 28 | 1 · What Is Engineering? | |
-| Wed Sep 30 | 2 · The Engineering Disciplines · In-Class Work 1 · the project is introduced | Homework 1 (before the session) |
-| Fri Oct 2 | | Homework 2, Homework 3 |
-| Mon Oct 5 | 3 · The Engineering Design Process | |
-| Wed Oct 7 | 4 · Defining the Problem · In-Class Work 2 | |
-| Mon Oct 12 | 5 · Criteria, Constraints, and Decision Matrices · Conversation 1 opens | Project: Topic |
-| Wed Oct 14 | 6 · Keys to Success in Engineering Study · In-Class Work 3 | |
-| Fri Oct 16 | | Homework 4 |
-| Mon Oct 19 | 7 · How People Learn · Conversation 2 opens | |
-| Wed Oct 21 | 8 · Job Functions and the Technology Team · In-Class Work 4 · open half hour | |
-| Fri Oct 23 | | Homework 5 |
-| Mon Oct 26 | 9 · Unit Conversions and Dimensional Analysis | Project: Proposal |
-| Wed Oct 28 | 10 · A Common Basis · In-Class Work 5 | |
-| Mon Nov 2 | 11 · Transfer, Advising, and Your Educational Plan | Conversation 2 |
-| Wed Nov 4 | 12 · In-Class Work 6, project checkpoint · open half hour | |
-| Mon Nov 9 | 13 · Ethics and Professional Licensure | |
-| Wed Nov 11 | College closed | |
-| Fri Nov 13 | | Homework 6 |
-| Mon Nov 16 | 14 · Estimation, Measurement, and Error · Homework 7 opens | Conversation 1 |
-| Wed Nov 18 | 15 · In-Class Work 7, build status · open half hour | |
-| Fri Nov 20 | | Final paper |
-| Mon Nov 23 | 16 · Presenting Technical Information | |
-| Wed Nov 25 | 17 · In-Class Work 8, presentation dry run · open half hour | |
-| Mon Nov 30 | 18 · What Comes Next · resume review in pairs | Homework 7 |
-| Wed Dec 2 | 19 · Project presentations, Group A | Slides, before your slot |
-| Wed Dec 9, 8:00 | 20 · Project presentations, Group B | Slides, before your slot |
-| Fri Dec 11 | | Project: Specification |
+| Date | Lecture | In class | Due |
+|:--|:--|:--|:--|
+| Mon Sep 28 | 1 · What Is Engineering? | | |
+| Wed Sep 30 | 2 · The Engineering Disciplines | In-Class Work 1: Who Built This? · the project is introduced | Homework 1, before the session |
+| Fri Oct 2 | | | Homework 2 · Homework 3 |
+| Mon Oct 5 | 3 · The Engineering Design Process | | |
+| Wed Oct 7 | 4 · Defining the Problem | In-Class Work 2: From a Vague Wish to a Real Specification | |
+| Mon Oct 12 | 5 · Criteria, Constraints, and Decision Matrices | | Project: Topic · Conversation 1 opens |
+| Wed Oct 14 | 6 · Keys to Success in Engineering Study | In-Class Work 3: Decision Matrix | |
+| Fri Oct 16 | | | Homework 4 |
+| Mon Oct 19 | 7 · How People Learn | | Conversation 2 opens |
+| Wed Oct 21 | 8 · Job Functions and the Technology Team | In-Class Work 4: Job Functions · open half hour | |
+| Fri Oct 23 | | | Homework 5 |
+| Mon Oct 26 | 9 · Unit Conversions and Dimensional Analysis | | Project: Proposal |
+| Wed Oct 28 | 10 · A Common Basis | In-Class Work 5: A Common Basis | |
+| Mon Nov 2 | 11 · Transfer, Advising, and Your Educational Plan | | Conversation 2 |
+| Wed Nov 4 | none | In-Class Work 6: Project Checkpoint · open half hour | |
+| Mon Nov 9 | 13 · Ethics and Professional Licensure | | |
+| Wed Nov 11 | College closed | | |
+| Fri Nov 13 | | | Homework 6 |
+| Mon Nov 16 | 14 · Estimation, Measurement, and Error | | Conversation 1 · Homework 7 opens |
+| Wed Nov 18 | none | In-Class Work 7: Build Status and Risk · open half hour | |
+| Fri Nov 20 | | | Final paper |
+| Mon Nov 23 | 16 · Presenting Technical Information | | |
+| Wed Nov 25 | none | In-Class Work 8: Presentation Dry Run · open half hour | |
+| Mon Nov 30 | 18 · What Comes Next | Resume review in pairs, ungraded | Homework 7 |
+| Wed Dec 2 | none | **Project presentations and demos, Group A**, six minutes plus questions each | Slides, before your slot |
+| Wed Dec 9, 8:00 | none | **Project presentations and demos, Group B** | Slides, before your slot |
+| Fri Dec 11 | | | Project: Specification |
 
 This schedule and syllabus are subject to revision at the instructor's discretion; changes are announced in Moodle.
