@@ -9,21 +9,21 @@ layout: default
 
 **The problem.** Your group runs a small company. A customer wants a way to keep a bicycle dry and secure outside an apartment building in Oregon, year round. Budget is $300.
 
-**1. Write the specifications. About five minutes.**
+**1. Write the specifications. ~5 minutes.**
 
 Pass or fail. What must any solution do before you would even consider it? Every one needs a number and a unit. "Secure" is a wish. "Cannot be opened without a key or a code" is a specification. "Survives winter" is a wish. "Outdoors, unheated, October to March" is a specification.
 
-**2. Come up with three genuinely different designs. About ten minutes.**
+**2. Come up with three genuinely different designs. ~10 minutes.**
 
 Not three versions of one idea. Change the operating principle, not the dimensions. A bigger version of the same thing is not an alternative. The test: **would they fail for different reasons?** If all three break the same way, you have one design in three costumes.
 
 Include the boring one, the thing you could buy off the shelf. It often wins, and when it loses you know exactly why.
 
-**3. Screen them. A couple of minutes.**
+**3. Screen them. ~2 minutes.**
 
 Anything that fails a specification leaves now, before any scoring. If nothing survives, a specification is wrong or the job is harder than you thought. If everything survives, your specifications were too loose to ask anything.
 
-**4. Write your criteria and weight them. About five minutes.**
+**4. Write your criteria and weight them. ~5 minutes.**
 
 Criteria are how you choose among the designs that passed. Better or worse, not yes or no. Three or four is plenty.
 
@@ -32,7 +32,7 @@ Criteria are how you choose among the designs that passed. Better or worse, not 
 - **Some have no unit.** "Looks acceptable to the neighbors" is real but not measurable. Decide what you will count instead *before* you score. Afterward you will pick whichever proxy gives the answer you already wanted
 - **Weights add to 100.** Which means you cannot call everything important. That is the point
 
-**5. Score, total, and argue. The rest of the time.**
+**5. Score, total, and argue. ~8 minutes.**
 
 Score each design 1 to 5 on each criterion. **5 is always the good end**, including for cost. Score down a column, one criterion at a time across all three designs, not one design at a time, or your scale drifts. Mark which numbers you guessed.
 
