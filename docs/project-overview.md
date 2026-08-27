@@ -39,4 +39,11 @@ Notice how many of these are ordinary. The best projects in this course are usua
 - **Don't wait.** Parts take two weeks to arrive. The first build never works. People who start in the last two weeks do not get their project to work, and the presentation shows it
 - **Measure something.** Every project needs at least one number you measured that says whether it met its specifications. "It works" is not a result
 
-**Parts, tools, and software.** Not sure where to start? Ask me, and ask the CCC instructors in the field you're building in.
+**Where to build, and where to look**
+
+- **The CCC Makerspace.** The Les de Asis Makerspace in the Holden Industrial Technology Center on the Oregon City campus: 3D printers, a laser cutter, CNC machines, a vinyl cutter, a full wood shop and metal shop, and SolidWorks, Fusion 360 and AutoCAD on the computers. Open to students on a drop-in basis. Hours and details: [clackamas.edu/student-life/campuses-buildings-hours/makerspace](https://www.clackamas.edu/student-life/campuses-buildings-hours/makerspace)
+- **For ideas and for seeing how other people built things:** [Instructables](https://www.instructables.com) (step-by-step builds of every kind) · [Hackaday.io](https://hackaday.io) (people documenting their projects, mostly electronics) · [Printables](https://www.printables.com) (3D-printable designs, free)
+- **Parts and tutorials for anything with electronics in it:** [SparkFun](https://www.sparkfun.com) and [Adafruit](https://www.adafruit.com), both of which sell the parts and write the tutorials that go with them
+- **Free software:** [Tinkercad](https://www.tinkercad.com) for simple 3D modeling and for simulating Arduino circuits in the browser before you buy anything
+
+Not sure where to start? Ask me, and ask the CCC instructors in the field you're building in.
