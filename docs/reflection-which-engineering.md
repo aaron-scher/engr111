@@ -1,9 +1,9 @@
 ---
-title: "Reflection 1: Which Engineering, and What Is It?"
+title: "Homework 3: Which Engineering, and What Is It?"
 layout: default
 ---
 
-# Reflection 1: Which Engineering, and What Is It?
+# Homework 3: Which Engineering, and What Is It?
 
 Between 300 and 500 words. Do the assigned reading first, then answer both:
 

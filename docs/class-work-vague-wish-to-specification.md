@@ -1,9 +1,9 @@
 ---
-title: "Class Work 2: From a Vague Wish to a Real Specification"
+title: "In-Class Work 2: From a Vague Wish to a Real Specification"
 layout: default
 ---
 
-# Class Work 2: From a Vague Wish to a Real Specification
+# In-Class Work 2: From a Vague Wish to a Real Specification
 
 **We do this live in class.** You'll be in a breakout room for 35 minutes.
 
@@ -26,7 +26,7 @@ Work through four things:
 
 Expect to disagree about the numbers. That argument is the assignment. The number you pick for "must cost under X" *is* a design decision.
 
-**One person posts for the group** to the Class Work 2 forum:
+**One person posts for the group** to the In-Class Work 2 forum:
 
 - Subject line: your room number and who your customer turned out to be
 - First line: everyone's full names, separated by commas

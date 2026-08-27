@@ -1,9 +1,9 @@
 ---
-title: "Reflection 2: Keys to Success"
+title: "Homework 4: Keys to Success"
 layout: default
 ---
 
-# Reflection 2: Keys to Success
+# Homework 4: Keys to Success
 
 Between 300 and 500 words. Answer both:
 

@@ -1,9 +1,9 @@
 ---
-title: "Homework 3: Meet an Adviser"
+title: "Homework 5: Meet an Adviser"
 layout: default
 ---
 
-# Homework 3: Meet an Adviser
+# Homework 5: Meet an Adviser
 
 Meet with an academic adviser and leave with a term-by-term plan that gets you to transfer.
 
@@ -16,7 +16,7 @@ Meet with an academic adviser and leave with a term-by-term plan that gets you t
 
 If you meet the transfer school's adviser, you'll get the sharper answers about their program. If you meet CCC's, you'll get the sharper answers about what to take here. Both are good. Doing both is better, but one is the assignment.
 
-**Bring to the meeting:** your unofficial transcript or degree audit, and the answer to "which degree, at which school, by when" from your reflection, even if it's a guess.
+**Bring to the meeting:** your unofficial transcript or degree audit, and the answer to "which degree, at which school, by when" from your Keys to Success homework, even if it's a guess.
 
 **Ask, at minimum:**
 

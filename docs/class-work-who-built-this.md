@@ -1,9 +1,9 @@
 ---
-title: "Class Work 1: Who Built This?"
+title: "In-Class Work 1: Who Built This?"
 layout: default
 ---
 
-# Class Work 1: Who Built This?
+# In-Class Work 1: Who Built This?
 
 **We do this live in class.** You will be placed into a breakout room and have 20 minutes.
 
@@ -22,7 +22,7 @@ Answer two questions:
 
 Question 2 has no right answer. Argue about it. Pick one and commit.
 
-**Before your group returns to the main room, one person posts your answer** to the Class Work 1 forum:
+**Before your group returns to the main room, one person posts your answer** to the In-Class Work 1 forum:
 
 - Subject line: your technology
 - First line of the post: everyone's full names, separated by commas

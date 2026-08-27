@@ -1,11 +1,11 @@
 ---
-title: "Class Work 7: Build Status and Risk (Studio 2)"
+title: "In-Class Work 7: Build Status and Risk"
 layout: default
 ---
 
-# Class Work 7: Build Status and Risk (Studio 2)
+# In-Class Work 7: Build Status and Risk
 
-**We do this live in class.** Breakout rooms of four. Same format as Studio 1, different questions, and by now everyone should have something physical or something running.
+**We do this live in class.** Breakout rooms of four. Same format as the project checkpoint, different questions, and by now everyone should have something physical or something running.
 
 Each person gets about eight minutes:
 
@@ -14,7 +14,7 @@ Each person gets about eight minutes:
 3. The group gives one specific suggestion. Not encouragement, a suggestion
 4. The group answers: **can this finish before presentations?** If the honest answer is no, say what should be cut
 
-**One person posts for the group** to the Class Work 7 forum:
+**One person posts for the group** to the In-Class Work 7 forum:
 
 - Subject line: your room number
 - First line: everyone's full names

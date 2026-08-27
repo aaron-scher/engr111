@@ -1,9 +1,9 @@
 ---
-title: "Homework 1: Career Numbers"
+title: "Homework 2: Career Numbers"
 layout: default
 ---
 
-# Homework 1: Career Numbers
+# Homework 2: Career Numbers
 
 Pick one engineering discipline you are considering. It does not have to be the one you end up in.
 
@@ -19,6 +19,6 @@ Give the URL where you found each number.
 
 Then two or three sentences: was this what you expected? Did any of it change how you feel about that discipline?
 
-**Post it to the Homework 1 forum.** Subject line: the discipline. One post per person. Everyone else's posts appear once yours is in, so do your own lookup first. The point is finding the numbers yourself, and the whole class's numbers together are what we'll look at in lecture.
+**Post it to the Homework 2 forum.** Subject line: the discipline. One post per person. Everyone else's posts appear once yours is in, so do your own lookup first. The point is finding the numbers yourself, and the whole class's numbers together are what we'll look at in lecture.
 
 Grading and the AI policy are in the syllabus.

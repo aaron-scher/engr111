@@ -1,9 +1,9 @@
 ---
-title: "Class Work 3: Decision Matrix"
+title: "In-Class Work 3: Decision Matrix"
 layout: default
 ---
 
-# Class Work 3: Decision Matrix
+# In-Class Work 3: Decision Matrix
 
 **We do this live in class.** Breakout rooms of four, 30 minutes. Keep this page open while you work. It is the whole method, and nobody expects you to remember it.
 
@@ -38,7 +38,7 @@ Score each design 1 to 5 on each criterion. **5 is always the good end**, includ
 
 Then the part I actually care about: **is the winner the design you would build?** If it isn't, either a weight is wrong or your instinct is. Work out which. Changing a weight because you learned something is normal. Changing it because you wanted a different answer is not, and the tell is that it only ever moves one direction.
 
-**One person posts for the group** to the Class Work 3 forum:
+**One person posts for the group** to the In-Class Work 3 forum:
 
 - Subject line: the design that won
 - First line: everyone's full names

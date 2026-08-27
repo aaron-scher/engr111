@@ -1,9 +1,9 @@
 ---
-title: "Class Work 5: A Common Basis"
+title: "In-Class Work 5: A Common Basis"
 layout: default
 ---
 
-# Class Work 5: A Common Basis
+# In-Class Work 5: A Common Basis
 
 **We do this live in class.** Breakout rooms of four, 30 minutes. The spreadsheet is attached.
 
@@ -16,7 +16,7 @@ In your room:
 3. Pick one and be able to say why
 4. Then name one thing you'd want to know that isn't in the table, and say how it might change your answer
 
-**One person posts for the group** to the Class Work 5 forum:
+**One person posts for the group** to the In-Class Work 5 forum:
 
 - Subject line: the process you recommend
 - First line: everyone's full names

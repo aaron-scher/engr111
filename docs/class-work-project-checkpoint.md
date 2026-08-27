@@ -1,9 +1,9 @@
 ---
-title: "Class Work 6: Project Checkpoint (Studio 1)"
+title: "In-Class Work 6: Project Checkpoint"
 layout: default
 ---
 
-# Class Work 6: Project Checkpoint (Studio 1)
+# In-Class Work 6: Project Checkpoint
 
 **We do this live in class.** Breakout rooms of four, running most of the session, then the room stays open for anyone who wants to stick around and ask me things.
 
@@ -15,7 +15,7 @@ Each person gets about eight minutes:
 2. The group asks questions for three minutes. Useful questions: what happens if that part doesn't fit? How are you measuring that? What's your backup if the sensor doesn't arrive?
 3. The group names, out loud, **the single biggest risk to that project finishing on time**. Not a list. One thing
 
-**One person posts for the group** to the Class Work 6 forum:
+**One person posts for the group** to the In-Class Work 6 forum:
 
 - Subject line: your room number
 - First line: everyone's full names

@@ -1,9 +1,9 @@
 ---
-title: "Homework 2: About You"
+title: "Homework 1: About You"
 layout: default
 ---
 
-# Homework 2: About You
+# Homework 1: About You
 
 Short assignment. Answer all six in a few sentences each. This tells me who is in the course and at what level.
 

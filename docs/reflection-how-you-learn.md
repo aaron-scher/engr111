@@ -1,9 +1,9 @@
 ---
-title: "Reflection 3: How You Learn"
+title: "Homework 6: How You Learn"
 layout: default
 ---
 
-# Reflection 3: How You Learn
+# Homework 6: How You Learn
 
 Between 300 and 500 words. Answer both:
 

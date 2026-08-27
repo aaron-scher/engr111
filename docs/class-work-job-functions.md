@@ -1,9 +1,9 @@
 ---
-title: "Class Work 4: Job Functions"
+title: "In-Class Work 4: Job Functions"
 layout: default
 ---
 
-# Class Work 4: Job Functions
+# In-Class Work 4: Job Functions
 
 **We do this live in class.** Breakout rooms of four, 25 minutes.
 
@@ -15,7 +15,7 @@ In your room:
 4. Each person says which function appeals to them most and which they'd hate. Then the group names one attribute each of those jobs demands
 5. Each person names one thing the job they want demands that they don't have yet, and one step they could take toward it
 
-**One person posts for the group** to the Class Work 4 forum:
+**One person posts for the group** to the In-Class Work 4 forum:
 
 - Subject line: the technology you picked
 - First line: everyone's full names

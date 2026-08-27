@@ -1,9 +1,9 @@
 ---
-title: "Class Work 8: Presentation Dry Run (Studio 3)"
+title: "In-Class Work 8: Presentation Dry Run"
 layout: default
 ---
 
-# Class Work 8: Presentation Dry Run (Studio 3)
+# In-Class Work 8: Presentation Dry Run
 
 **We do this live in class.** Breakout rooms of four.
 
@@ -16,7 +16,7 @@ After each person, the group gives two things and only two:
 
 No general praise, no "that was great." The second item is the useful one, and you have to name something.
 
-**One person posts for the group** to the Class Work 8 forum:
+**One person posts for the group** to the In-Class Work 8 forum:
 
 - Subject line: your room number
 - First line: everyone's full names
