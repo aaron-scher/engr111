@@ -79,7 +79,7 @@ Two rules.
 
 Some assignments only work if you do the real thing: measure it yourself, talk to the actual person, look at the object in your hand, build the thing. No tool can do those for you.
 
-If you used AI on an assignment, add one line at the end saying how. No penalty either way. I ask because it is useful to know, not to catch you.
+If you used AI on an assignment, add one line at the end saying how. There is no penalty for using AI within this policy. If it is obvious that you wrote with AI, or an AI check says you did, and you did not say so, points can be deducted.
 
 ## Academic honesty
 
