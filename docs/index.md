@@ -7,7 +7,7 @@ layout: default
 
 Instructor: Dr. Aaron Scher
 
-Syllabus: *(link to come)*
+[Syllabus, Fall 2026](syllabus.html)
 
 ## Homework
 
