@@ -40,7 +40,7 @@ Many of these are ordinary. Small things done properly, with real measurements, 
 **Three rules**
 
 - **Keep the scope manageable.** The most common mistake is a project that is too big. Choose something you are sure you can finish; if you finish early, add a feature
-- **Start early.** Parts take time to arrive, and the first build rarely works
+- **Start early.** Parts take time to arrive, and you need time to troubleshoot when something does not work
 - **Measure something.** Every project needs at least one number you measured that shows whether it met its specifications. "It works" is not a result
 
 **Where to build, and where to look**
