@@ -17,7 +17,7 @@ layout: default
 
 Answer two questions:
 
-1. Which engineering disciplines had to work on this thing? A list, one line per discipline, with a few words on what that discipline did here. Four to eight lines is typical.
+1. Which engineering disciplines had to work on this thing? Please submit a list, one line per discipline, where each line also describes what that discipline did here.
 2. If it fails in the field and someone gets hurt, which single discipline is most responsible? Defend your pick in one sentence.
 
 Question 2 has no right answer. Argue about it. Pick one and commit.
