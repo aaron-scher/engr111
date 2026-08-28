@@ -5,7 +5,7 @@ layout: default
 
 # In-Class Work 3: Decision Matrix
 
-**We do this live in class.** Small breakout rooms, about 30 minutes. I'll tell you the exact time in class. Keep this page open while you work. It is the whole method, and nobody expects you to remember it.
+**We do this live in class.** Small breakout rooms, about 30 minutes. I'll tell you the exact time in class. Keep this page open while you work; it is the whole method.
 
 **The problem.** Your group runs a small company. A customer wants a way to keep a bicycle dry and secure outside an apartment building in Oregon, year round. Budget is $300.
 
@@ -15,13 +15,13 @@ Pass or fail. What must any solution do before you would even consider it? Every
 
 **2. Come up with three genuinely different designs. ~10 minutes.**
 
-Not three versions of one idea. Change the operating principle, not the dimensions. A bigger version of the same thing is not an alternative. The test: **would they fail for different reasons?** If all three break the same way, you have one design in three costumes.
+Not three versions of one idea. Change the operating principle, not the dimensions. A bigger version of the same thing is not an alternative. The test: **would they fail for different reasons?** If all three break the same way, they are one design.
 
-Include the boring one, the thing you could buy off the shelf. It often wins, and when it loses you know exactly why.
+Include the boring one, the thing you could buy off the shelf. It is often the winner, and if it loses, the matrix shows why.
 
 **3. Screen them. ~2 minutes.**
 
-Anything that fails a specification leaves now, before any scoring. If nothing survives, a specification is wrong or the job is harder than you thought. If everything survives, your specifications were too loose to ask anything.
+Anything that fails a specification leaves now, before any scoring. If nothing survives, a specification is wrong or the job is harder than you thought. If everything survives, your specifications were too loose.
 
 **4. Write your criteria and weight them. ~5 minutes.**
 
@@ -29,14 +29,14 @@ Criteria are how you choose among the designs that passed. Better or worse, not 
 
 - **Where to find them.** The three kinds of specification: performance (how well), economic (how cheap), scheduling (how soon). Also: what actually differs between your three designs. A criterion they all score the same on cannot change the answer, so cut it
 - **Each one needs a direction, a scale, and a source.** Which way is good, what you are counting in, and where the number will come from. "Cheaper is better, in dollars, from a hardware store website"
-- **Some have no unit.** "Looks acceptable to the neighbors" is real but not measurable. Decide what you will count instead *before* you score. Afterward you will pick whichever proxy gives the answer you already wanted
-- **Weights add to 100.** Which means you cannot call everything important. That is the point
+- **Some have no unit.** "Looks acceptable to the neighbors" is real but not measurable. Decide what you will count instead before you score, not after
+- **Weights add to 100**, so not everything can be important
 
 **5. Score, total, and argue. ~8 minutes.**
 
 Score each design 1 to 5 on each criterion. **5 is always the good end**, including for cost. Score down a column, one criterion at a time across all three designs, not one design at a time, or your scale drifts. Mark which numbers you guessed.
 
-Then the part I actually care about: **is the winner the design you would build?** If it isn't, either a weight is wrong or your instinct is. Work out which. Changing a weight because you learned something is normal. Changing it because you wanted a different answer is not, and the tell is that it only ever moves one direction.
+Then check: **is the winner the design you would build?** If not, either a weight is wrong or your instinct is. Work out which. Changing a weight because you learned something is fine. Changing it to get the answer you wanted is not.
 
 **One person posts for the group** to the In-Class Work 3 forum:
 
