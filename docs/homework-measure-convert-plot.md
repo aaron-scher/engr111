@@ -5,40 +5,41 @@ layout: default
 
 # Homework 7: Measure, Convert, Plot
 
-Three parts, one submission.
+One PDF, parts labeled a to h.
 
-**1. Measure something ten times.**
+**Purpose.** Measure the same quantity ten times under the same conditions and see how much the readings vary. That variation is measurement error, and it is what the mean and standard deviation describe.
 
-Pick a quantity you can measure repeatedly with something you own. Something from your project is ideal: the voltage your battery actually delivers, how long your mechanism takes to cycle, the mass of a part on a kitchen scale, how far your thing travels. If your project has nothing measurable yet, use anything real: the time for a kettle to boil, the length of a room by pacing it, your phone's battery drop over ten minutes.
+**Measure.** Pick a quantity you can measure ten times with something you own. From your project if possible: the voltage your battery delivers, the time your mechanism takes to cycle, the mass of a part on a kitchen scale. Otherwise anything real: how long a kettle takes to boil, the length of a room by pacing it. Reset between readings and measure again. Reading the same ruler ten times without moving anything gives ten copies of one number, not ten measurements.
 
-Report:
+a. What you measured, with what instrument, and how. Include a photo of your setup.
+b. All ten readings, including the one that looks wrong. Do not clean up your numbers.
+c. Mean and standard deviation.
+d. Your result as mean ± standard deviation, with units. For example, 42.3 ± 0.6 s.
+e. Two or three sentences: where did the variation come from? The instrument, you, the environment, or the thing itself?
 
-- What you measured, with what instrument, and how
-- All ten measurements. All of them, including the one that looks wrong
-- Mean and standard deviation
-- Your result stated properly, with its uncertainty
-- Two or three sentences: where did the variation come from? The instrument, you, the environment, or the thing itself?
+**Convert.**
 
-**Do not clean up your numbers.** An ugly data set you can explain is worth more here than a tidy one you can't.
+f. Convert your mean to the other unit system: SI if you measured in US customary units, US customary if you measured in SI. Show the conversion, then one sentence on whether the number is sane.
 
-**2. Convert it.**
+**Plot.** Any tool.
 
-State your result in the other unit system: SI if you measured in US customary units, US customary if you measured in SI. Show the conversion. Then one sentence checking whether the number is sane. If it says your part weighs 4,000 kilograms, something is wrong and I want you to catch it, not me.
+g. Figure 1: your ten readings, in a chart that shows the spread honestly.
+h. Figure 2: the data below, the position of a ball dropped from a tall building. Show how position changes with time.
 
-**3. Plot two figures**, in Excel or Google Sheets.
+| Time (s) | Position (m) |
+|--:|--:|
+| 0 | 0 |
+| 1 | -4.9 |
+| 2.5 | -30.4 |
+| 3 | -44 |
+| 4 | -78.3 |
+| 6 | -175.8 |
+| 8 | -312.7 |
+| 9.1 | -406.1 |
+| 11.2 | -615.2 |
 
-- **Figure 1: your ten measurements.** Choose the chart that shows the spread honestly. This is a figure you can use in your presentation or your final report, so make it one you'd want there
-- **Figure 2: one of the three data sets in the attached spreadsheet.** Pick the one closest to your interests. Each sheet says what the figure is for
+Each figure gets a caption of one or two sentences: what it shows, and why that chart type. Both figures need axis labels with units, legibility at the size you submit them, readability in grayscale, and no chart junk.
 
-For each figure, a caption of one or two sentences saying what it shows and why this chart type was the right choice.
-
-Both figures need:
-
-- Axis labels with units
-- Legibility at the size you submit them
-- Readability in grayscale
-- No chart junk
-
-Submit one PDF with both figures in it.
+Submit one PDF.
 
 Grading and the AI policy are in the syllabus.
