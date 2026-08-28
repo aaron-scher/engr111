@@ -79,7 +79,7 @@ Two rules.
 
 Some assignments only work if you do the real thing: measure it yourself, talk to the actual person, look at the object in your hand, build the thing. No tool can do those for you.
 
-If you used AI on an assignment, add one line at the end saying how, the way you would cite a source. Saying so never costs points; the work is graded the same either way. Not saying so, when it is obvious or an AI check flags it, can cost points.
+If you used AI on an assignment, add one line at the end saying how, treating it the way you would cite a source. Saying so never costs points (the two rules above still apply either way). Not saying so, when it is obvious or an AI check flags it, can cost points.
 
 ## Academic honesty
 
