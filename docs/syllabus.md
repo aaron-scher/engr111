@@ -65,7 +65,7 @@ The project pieces and the final paper are graded on the rubric shown with each 
 
 **Late work.** Work up to a week late loses 20%. After a week, it's a zero. After the term is over, it's a zero; I will not grade anything after the term ends. You don't need to tell me why something is late.
 
-Four things work differently. The project topic: a late topic still gets my reply, but not the points, because the reply is the point. The proposal: feedback comes back on the normal schedule, so a late proposal reaches the checkpoint session without it. The presentation: your slot is your slot. The final report: the due date is final, because grades are due.
+Two things work differently. The presentation: your slot is your slot. The final report: the due date is final, because grades are due. One consequence worth knowing: a late proposal follows the normal rule, but my feedback on it will not be back in time for the checkpoint session.
 
 ## Using AI
 
