@@ -5,7 +5,7 @@ layout: default
 
 # Project: Proposal
 
-This is the document that gets your project approved. Write it for me as the person deciding whether this is a sensible thing for you to spend the term on.
+This is the document that gets your project approved. Write it for me as the person deciding whether this is a sensible thing for you to spend the term on. Use the feedback you got on your [topic](project-topic.html).
 
 Cover all five:
 

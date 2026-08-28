@@ -13,7 +13,7 @@ A paragraph or two, and it's not binding. Tell me:
 
 If you have two ideas and can't choose, describe both and say which way you're leaning.
 
-You can change your topic later. I will reply with feedback. The point of this step is to make sure you have a well-scoped, manageable project that you can complete in the short time the course gives you. Projects most often fail because they were too ambitious from the start.
+You can change your topic later. I will reply with feedback; use it when you write your [proposal](project-proposal.html). The point of this step is to make sure you have a well-scoped, manageable project that you can complete in the short time the course gives you. Projects most often fail because they were too ambitious from the start.
 
 Type it into the Moodle submission box. A diagram or photo is welcome but not required; attach it as a file.
 
