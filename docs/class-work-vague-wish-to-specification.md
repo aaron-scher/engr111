@@ -24,7 +24,7 @@ Work through four things:
 3. **Write three criteria**, ranked. These are how you'd choose between designs that all pass the constraints
 4. **Name one thing you'd need to go find out** before designing anything, and say how you'd find it. Measure something? Ask someone? Look up a standard?
 
-Expect to disagree about the numbers. That argument is the assignment. The number you pick for "must cost under X" *is* a design decision.
+You will probably disagree about the numbers. That is normal. Deciding what the number should be, for example how much "must cost under X" is, is a design decision, and there is no answer key.
 
 **One person posts for the group** to the In-Class Work 2 forum:
 
