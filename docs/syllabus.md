@@ -118,32 +118,32 @@ Lectures are numbered by session; the Wednesdays without a lecture are in-class 
 
 | Date | Lecture | In class | Due |
 |:--|:--|:--|:--|
-| Mon Sep 28 | 1 · What Is Engineering? | | |
-| Wed Sep 30 | 2 · The Engineering Disciplines | In-Class Work 1: Who Built This? · the project is introduced | Homework 1, before the session |
-| Fri Oct 2 | | | Homework 2 · Homework 3 |
-| Mon Oct 5 | 3 · The Engineering Design Process | | |
-| Wed Oct 7 | 4 · Defining the Problem | In-Class Work 2: From a Vague Wish to a Real Specification | |
-| Mon Oct 12 | 5 · Criteria, Constraints, and Decision Matrices | | Project: Topic · Conversation 1 opens |
-| Wed Oct 14 | 6 · Keys to Success in Engineering Study | In-Class Work 3: Decision Matrix | |
-| Fri Oct 16 | | | Homework 4 |
-| Mon Oct 19 | 7 · How People Learn | | Conversation 2 opens |
-| Wed Oct 21 | 8 · Job Functions and the Technology Team | In-Class Work 4: Job Functions · open half hour | |
-| Fri Oct 23 | | | Homework 5 |
-| Mon Oct 26 | 9 · Unit Conversions and Dimensional Analysis | | Project: Proposal |
-| Wed Oct 28 | 10 · A Common Basis | In-Class Work 5: A Common Basis | |
-| Mon Nov 2 | 11 · Transfer, Advising, and Your Educational Plan | | Conversation 2 |
-| Wed Nov 4 | none | In-Class Work 6: Project Checkpoint · open half hour | |
-| Mon Nov 9 | 13 · Ethics and Professional Licensure | | |
-| Wed Nov 11 | College closed | | |
-| Fri Nov 13 | | | Homework 6 |
-| Mon Nov 16 | 14 · Estimation, Measurement, and Error | | Conversation 1 · Homework 7 opens |
-| Wed Nov 18 | none | In-Class Work 7: Build Status and Risk · open half hour | |
-| Fri Nov 20 | | | Final paper: Design Your Process |
-| Mon Nov 23 | 16 · Presenting Technical Information | | |
-| Wed Nov 25 | none | In-Class Work 8: Presentation Dry Run · open half hour | |
-| Mon Nov 30 | 18 · What Comes Next | Resume review in pairs, ungraded | Homework 7 |
-| Wed Dec 2 | none | **Project presentations and demos, Group A**, six minutes plus questions each | Slides, before your slot |
-| Wed Dec 9, 8:00 | none | **Project presentations and demos, Group B** | Slides, before your slot |
-| Fri Dec 11 | | | Project: Final Report |
+| Mon Sep 28 | [1 · What Is Engineering?](lectures/lecture-01-what-is-engineering.pdf) |  |  |
+| Wed Sep 30 | [2 · The Engineering Disciplines](lectures/lecture-02-the-engineering-disciplines.pdf) | [In-Class Work 1: Who Built This?](class-work-who-built-this.html) · [the project is introduced](project-overview.html) | [Homework 1](homework-about-you.html), before the session |
+| Fri Oct 2 |  |  | [Homework 2](homework-career-numbers.html) · [Homework 3](reflection-which-engineering.html) |
+| Mon Oct 5 | [3 · The Engineering Design Process](lectures/lecture-03-the-engineering-design-process.pdf) |  |  |
+| Wed Oct 7 | [4 · Defining the Problem](lectures/lecture-04-defining-the-problem.pdf) | [In-Class Work 2: From a Vague Wish to a Real Specification](class-work-vague-wish-to-specification.html) |  |
+| Mon Oct 12 | [5 · Criteria, Constraints, and Decision Matrices](lectures/lecture-05-criteria-constraints-and-decision-matrices.pdf) |  | [Project: Topic](project-topic.html) · [Conversation 1](homework-meet-an-adviser.html) opens |
+| Wed Oct 14 | [6 · Keys to Success in Engineering Study](lectures/lecture-06-keys-to-success-in-engineering-study.pdf) | [In-Class Work 3: Decision Matrix](class-work-decision-matrix.html) |  |
+| Fri Oct 16 |  |  | [Homework 4](reflection-keys-to-success.html) |
+| Mon Oct 19 | [7 · How People Learn](lectures/lecture-07-how-people-learn.pdf) |  | [Conversation 2](homework-informational-interview.html) opens |
+| Wed Oct 21 | [8 · Job Functions and the Technology Team](lectures/lecture-08-job-functions-and-the-technology-team.pdf) | [In-Class Work 4: Job Functions](class-work-job-functions.html) · open half hour |  |
+| Fri Oct 23 |  |  | [Homework 5](reflection-how-you-learn.html) |
+| Mon Oct 26 | [9 · Unit Conversions and Dimensional Analysis](lectures/lecture-09-unit-conversions-and-dimensional-analysis.pdf) |  | [Project: Proposal](project-proposal.html) |
+| Wed Oct 28 | [10 · A Common Basis](lectures/lecture-10-a-common-basis.pdf) | [In-Class Work 5: A Common Basis](class-work-common-basis.html) |  |
+| Mon Nov 2 | [11 · Transfer, Advising, and Your Educational Plan](lectures/lecture-11-transfer-advising-and-your-educational-plan.pdf) |  | [Conversation 2](homework-informational-interview.html) |
+| Wed Nov 4 | none | [In-Class Work 6: Project Checkpoint](class-work-project-checkpoint.html) · open half hour |  |
+| Mon Nov 9 | [13 · Ethics and Professional Licensure](lectures/lecture-13-ethics-and-professional-licensure.pdf) |  |  |
+| Wed Nov 11 | College closed |  |  |
+| Fri Nov 13 |  |  | [Homework 6](reflection-ethics.html) |
+| Mon Nov 16 | [14 · Estimation, Measurement, and Error](lectures/lecture-14-estimation-measurement-and-error.pdf) |  | [Conversation 1](homework-meet-an-adviser.html) · [Homework 7](homework-measure-convert-plot.html) opens |
+| Wed Nov 18 | none | [In-Class Work 7: Build Status and Risk](class-work-build-status.html) · open half hour |  |
+| Fri Nov 20 |  |  | [Final paper: Design Your Process](final-paper.html) |
+| Mon Nov 23 | [16 · Presenting Technical Information](lectures/lecture-16-presenting-technical-information.pdf) |  |  |
+| Wed Nov 25 | none | [In-Class Work 8: Presentation Dry Run](class-work-presentation-dry-run.html) · open half hour |  |
+| Mon Nov 30 | [18 · What Comes Next](lectures/lecture-18-what-comes-next.pdf) | [Resume review in pairs, ungraded](breakout-peer-resume-review.html) | [Homework 7](homework-measure-convert-plot.html) |
+| Wed Dec 2 | none | **[Project presentations and demos, Group A](project-presentation-and-demo.html)**, six minutes plus questions each | [Slides, before your slot](project-presentation-and-demo.html) |
+| Wed Dec 9, 8:00 | none | **[Project presentations and demos, Group B](project-presentation-and-demo.html)** | [Slides, before your slot](project-presentation-and-demo.html) |
+| Fri Dec 11 |  |  | [Project: Final Report](project-specification.html) |
 
 This schedule and syllabus are subject to revision at the instructor's discretion; changes are announced in Moodle.
