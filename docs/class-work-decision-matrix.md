@@ -5,7 +5,7 @@ layout: default
 
 # In-Class Work 3: Decision Matrix
 
-**We do this live in class.** Small breakout rooms, about 30 minutes. I'll tell you the exact time in class. Keep this page open while you work; it is the whole method. A spreadsheet template for the matrix is attached; use it, or any spreadsheet, or a table typed into the post.
+**We do this live in class.** Small breakout rooms, about 30 minutes. I'll tell you the exact time in class. A [spreadsheet template](files/decision-matrix.xlsx) for the matrix is here; use it, or any spreadsheet, or a table typed into the post.
 
 **The problem.** Your group runs a small company. A customer wants a way to keep a bicycle dry and secure outside an apartment building in Oregon, year round. Budget is $300.
 

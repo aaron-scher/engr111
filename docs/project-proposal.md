@@ -18,7 +18,7 @@ Cover all five:
 
 **c. At least two real alternatives.** Genuinely different approaches, not two versions of the same idea. Describe each one well enough that I could picture it.
 
-**d. How you chose.** Use the decision matrix. Show the weights and say why they're what they are.
+**d. How you chose.** Use a decision matrix (the [spreadsheet template](files/decision-matrix.xlsx) from class, or your own). Show the weights and say why they're what they are.
 
 **e. How you'll test it.** What measurement tells you it worked? What's the number, and what tool are you using to get it? "It works" is not a test.
 
