@@ -9,12 +9,12 @@ You will design and build something this term, on a topic you choose, following 
 
 **What you will turn in, in order**
 
-1. **A topic.** One paragraph, early in the term. Not binding. I reply to every one within three days
-2. **A proposal.** Two to four pages, written to me: the problem, the constraints and criteria, at least two alternatives, how you chose, how you will test. This is what gets your project approved
-3. **A presentation and demo.** Six minutes plus questions, live over Zoom, showing what you built and what your tests measured. A recorded video of the demo is fine
-4. **A final report.** Two or more pages plus figures, written for a customer receiving the finished product: what it is, what it is made of, how it works, how to test it, and what changed from the proposal and why
+1. **[A topic](project-topic.html).** One paragraph, early in the term. Not binding. I reply to every one within three days
+2. **[A proposal](project-proposal.html).** Two to four pages, written to me: the problem, the constraints and criteria, at least two alternatives, how you chose, how you will test. This is what gets your project approved
+3. **[A presentation and demo](project-presentation-and-demo.html).** Six minutes plus questions, live over Zoom, showing what you built and what your tests measured. A recorded video of the demo is fine
+4. **[A final report](project-specification.html).** Two or more pages plus figures, written for a customer receiving the finished product: what it is, what it is made of, how it works, how to test it, and what changed from the proposal and why
 
-Each has its own page with the full instructions and the rubric.
+Each page has the full instructions and the rubric.
 
 **What counts as a project**
 
