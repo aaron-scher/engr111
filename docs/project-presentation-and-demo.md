@@ -16,7 +16,7 @@ You will present your project to the class live over Zoom. You have six minutes,
 - Your test results, with numbers
 - What you'd do differently
 
-**The demo.** Show the thing working: hold it up to the camera, share your screen, run the code. You may use a pre-recorded video for the demo, up to two minutes, and it counts inside your six. The rest of the presentation is live; the video is for the part that is risky or hard to see on a webcam.
+**The demo.** Show the thing working: hold it up to the camera, share your screen, run the code. If you would rather not demo it live over Zoom, or that is impractical, you may show a pre-recorded video of the demo in action instead, up to two minutes, and it counts inside your six. The rest of the presentation is live.
 
 **If it doesn't work, present it anyway.** A project that failed, where you can explain precisely what went wrong and what you'd change, scores well. A project that "works" with no evidence and no numbers does not. See the rubric.
 
