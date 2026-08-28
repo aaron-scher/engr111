@@ -36,5 +36,3 @@ You will probably disagree about the numbers. That is normal. Deciding what the 
 - The one thing you'd go find out, and how, in one or two sentences
 
 **Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the syllabus. One thing specific to this one: a constraint without a number in it doesn't count as a constraint. "It should be affordable" is a wish; "$40 or less" is a constraint.
-
-You'll do exactly this for your own project proposal, so do it properly now.
