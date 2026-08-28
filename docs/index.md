@@ -17,12 +17,15 @@ Instructor: Dr. Scher
 - [Homework 4: Keys to Success](reflection-keys-to-success.html)
 - [Homework 5: How You Learn](reflection-how-you-learn.html)
 - [Homework 6: Ethics and What You Owe](reflection-ethics.html)
-- [Homework 7: Measure, Convert, Plot](homework-measure-convert-plot.html)
 
 ## Conversation Assignments
 
 - [Conversation 1: Meet an Adviser](homework-meet-an-adviser.html)
 - [Conversation 2: Informational Interview](homework-informational-interview.html)
+
+## Measure and Plot
+
+- [Measure and Plot](homework-measure-convert-plot.html)
 
 ## In-class work
 

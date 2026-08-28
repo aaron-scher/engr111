@@ -1,9 +1,9 @@
 ---
-title: "Homework 7: Measure, Convert, Plot"
+title: "Measure and Plot"
 layout: default
 ---
 
-# Homework 7: Measure, Convert, Plot
+# Measure and Plot
 
 One PDF, organized in the three sections below, with the parts labeled as shown (1a, 1b, and so on).
 
