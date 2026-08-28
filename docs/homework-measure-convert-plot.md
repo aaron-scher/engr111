@@ -5,31 +5,31 @@ layout: default
 
 # Homework 7: Measure, Convert, Plot
 
-One PDF, parts labeled a to h.
+One PDF, organized in the three sections below, with the parts labeled as shown (1a, 1b, and so on).
 
 **Purpose.** Measure the same quantity ten times under the same conditions and see how much the readings vary. That variation is measurement error, and it is what the mean and standard deviation describe.
 
-**Measure.** Pick a quantity you can measure ten times with something you own. From your project if possible: the voltage your battery delivers, the time your mechanism takes to cycle, the mass of a part on a kitchen scale. Otherwise anything real: how long a kettle takes to boil, the length of a room by pacing it. Reset between readings and measure again. Reading the same ruler ten times without moving anything gives ten copies of one number, not ten measurements.
+**1. Measure.** Pick a quantity you can measure ten times with something you own. From your project if possible: the voltage your battery delivers, the time your mechanism takes to cycle, the mass of a part on a kitchen scale. Otherwise anything real: how long a kettle takes to boil, the length of a room by pacing it. Reset between readings and measure again. Note that something like reading the same ruler ten times without moving anything does NOT count: that gives ten copies of one number, not ten measurements.
 
-a. What you measured, with what instrument, and how. Include a photo of your setup.
+1a. What you measured, with what instrument, and how. Include a photo of your setup.
 
-b. All ten readings, including the one that looks wrong. Do not clean up your numbers.
+1b. All ten readings, including the one that looks wrong. Do not clean up your numbers.
 
-c. Mean and standard deviation.
+1c. Mean and standard deviation.
 
-d. Your result as mean ± standard deviation, with units. For example, 42.3 ± 0.6 s.
+1d. Your result as mean ± standard deviation, with units. For example, 42.3 ± 0.6 s.
 
-e. Two or three sentences: where did the variation come from? The instrument, you, the environment, or the thing itself?
+1e. Two or three sentences: where did the variation come from? The instrument, you, the environment, or the thing itself?
 
-**Convert.**
+**2. Convert.**
 
-f. Convert your mean to the other unit system: SI if you measured in US customary units, US customary if you measured in SI. Show the conversion, then one sentence on whether the number is sane.
+2a. Convert your mean to the other unit system: SI if you measured in US customary units, US customary if you measured in SI. Show the conversion, then one sentence on whether the number is sane.
 
-**Plot.** Any tool.
+**3. Plot.** Any tool.
 
-g. Figure 1: your ten readings, in a chart that shows the spread honestly.
+3a. Figure 1: your ten readings, in a chart that shows the spread honestly.
 
-h. Figure 2: the data below, the position of a ball dropped from a tall building. Show how position changes with time.
+3b. Figure 2: the data below, the position of a ball dropped from a tall building. Show how position changes with time.
 
 | Time (s) | Position (m) |
 |--:|--:|
