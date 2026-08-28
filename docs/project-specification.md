@@ -23,7 +23,7 @@ Imagine handing your project to someone who has to build, use, and maintain it w
 
 **Visual communication is a graded criterion here, not a bonus.** Include at least three of the following, and they must be legible and labeled: a dimensioned drawing, a block or flow diagram, a photograph of the finished object with a scale reference, a plot of your test data, a CAD view, or an annotated photograph. Drawings and diagrams are made with software, not sketched by hand. A report with no figures will not score well.
 
-There's a sample report attached from a previous student. Look at how much of it is lists and numbers rather than prose.
+Here is a [sample report](files/sample-final-report.pdf) from a previous student. Look at how much of it is lists and numbers rather than prose.
 
 Minimum two pages of text, plus figures. Submit one PDF.
 

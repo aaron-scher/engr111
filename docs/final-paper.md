@@ -17,7 +17,7 @@ The third is the main part.
 
 This draws on your earlier homework and on your adviser meeting. Much of the material is already in those.
 
-Minimum five full pages, 1.5 spacing, 12 point, 1 inch margins. Submit one PDF. Two sample papers from previous students are attached. The original version of this assignment is Appendix A of your textbook if you want to see where it comes from.
+Minimum five full pages, 1.5 spacing, 12 point, 1 inch margins. Submit one PDF. Two sample papers from previous students: [sample 1](files/sample-final-paper-1.pdf) and [sample 2](files/sample-final-paper-2.pdf). The original version of this assignment is Appendix A of your textbook if you want to see where it comes from.
 
 **The items**
 
