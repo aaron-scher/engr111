@@ -11,7 +11,7 @@ A paragraph or two, and it's not binding. Tell me:
 - What problem it solves, or what need it meets
 - Roughly what it's made of and roughly what it costs
 
-If you have two ideas and can't choose, describe both and say which way you're leaning. If you have no idea, use an AI tool to brainstorm: tell it what you are interested in, what problems you would like solved, and the rules for this project (one term, built by you, a nontrivial part of the design your own, a result you can measure), then pick one idea and tell me about it. The AI policy in the syllabus applies.
+If you have two ideas and can't choose, describe both and say which way you're leaning.
 
 You can change your topic later. The point of this is that I find out early enough to help.
 
