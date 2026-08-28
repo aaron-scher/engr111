@@ -15,7 +15,7 @@ One PDF, organized in the three sections below, with the parts labeled as shown 
 
 1b. All ten readings, including the one that looks wrong. Do not clean up your numbers.
 
-1c. Mean and standard deviation. Show your work for the standard deviation.
+1c. Mean and standard deviation. Show your work.
 
 1d. Your result as mean ± standard deviation, with units. For example, 42.3 ± 0.6 s.
 
