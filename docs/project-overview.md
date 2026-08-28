@@ -12,7 +12,7 @@ You will design and build something this term, on a topic you choose, and you'll
 1. **A topic.** One paragraph, early in the term. Not binding. I reply to every one within three days, and the most common reply is "good, but smaller"
 2. **A proposal.** Two to four pages, written to me, arguing that your plan is sound: the problem, the constraints and criteria, at least two alternatives, how you chose, how you'll test. This is the document that gets your project approved
 3. **A presentation and demo.** Six minutes plus questions, live over Zoom, showing what you built and what your tests measured. A recorded video of the demo is welcome
-4. **A specification.** Two or more pages plus figures, written to a customer receiving the finished product: what it is, what it's made of, how it works, how to test it, and what changed from the proposal and why
+4. **A final report.** Two or more pages plus figures, written to a customer receiving the finished product: what it is, what it's made of, how it works, how to test it, and what changed from the proposal and why
 
 Each of these has its own page in the course with the full instructions and how it's graded.
 

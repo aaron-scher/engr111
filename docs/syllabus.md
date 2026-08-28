@@ -48,7 +48,7 @@ The project runs the whole term, on a topic you choose. It is the largest part o
 | Conversation Assignments 1 and 2 | 2 | 50 | 100 |
 | In-Class Work 1 to 8 | 8 | 25 | 200 |
 | Final paper: Design Your Process | 1 | 100 | 100 |
-| Project: topic 25, proposal 125, presentation and demo 150, specification 125 | 4 | | 425 |
+| Project: topic 25, proposal 125, presentation and demo 150, final report 125 | 4 | | 425 |
 | **Total** | | | **1000** |
 
 Letter grades: A 900 and above · B 800 to 899 · C 700 to 799 · D 600 to 699 · F below 600. No curve. If you are considering the pass/no pass option, check with your transfer school first; many engineering programs do not accept it.
@@ -65,7 +65,7 @@ The project pieces and the final paper are graded on the rubric shown with each 
 
 **Late work.** Work up to a week late loses 20%. After a week, it's a zero. After the term is over, it's a zero; I will not grade anything after the term ends. You don't need to tell me why something is late.
 
-Four things work differently. The project topic: a late topic still gets my reply, but not the points, because the reply is the point. The proposal: feedback comes back on the normal schedule, so a late proposal reaches the checkpoint session without it. The presentation: your slot is your slot. The specification: the due date is final, because grades are due.
+Four things work differently. The project topic: a late topic still gets my reply, but not the points, because the reply is the point. The proposal: feedback comes back on the normal schedule, so a late proposal reaches the checkpoint session without it. The presentation: your slot is your slot. The final report: the due date is final, because grades are due.
 
 ## Using AI
 
@@ -110,7 +110,7 @@ Anything beyond that is covered by CCC's Student Code of Conduct, which defines 
 - Thursday and Friday, November 26 and 27: college closed. **Wednesday, November 25 is a normal session**
 - Friday, December 4: last day to change grading option; last day of instruction
 - Wednesday, December 9, **8:00 AM**: final session
-- Friday, December 11: project specification due
+- Friday, December 11: project final report due
 
 ## Schedule
 
@@ -144,6 +144,6 @@ Lectures are numbered by session; the Wednesdays without a lecture are in-class 
 | Mon Nov 30 | 18 · What Comes Next | Resume review in pairs, ungraded | Homework 7 |
 | Wed Dec 2 | none | **Project presentations and demos, Group A**, six minutes plus questions each | Slides, before your slot |
 | Wed Dec 9, 8:00 | none | **Project presentations and demos, Group B** | Slides, before your slot |
-| Fri Dec 11 | | | Project: Specification |
+| Fri Dec 11 | | | Project: Final Report |
 
 This schedule and syllabus are subject to revision at the instructor's discretion; changes are announced in Moodle.

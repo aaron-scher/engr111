@@ -1,13 +1,13 @@
 ---
-title: "Project: Specification"
+title: "Project: Final Report"
 layout: default
 ---
 
-# Project: Specification
+# Project: Final Report
 
 The last piece. This is a different document from your proposal, and the difference matters.
 
-Your **proposal** was written before you built anything, addressed to me, arguing that your plan was sound. Your **specification** is written after, addressed to a customer who is receiving a finished product. It doesn't argue. It describes.
+Your **proposal** was written before you built anything, addressed to me, arguing that your plan was sound. Your **final report** is written after, addressed to a customer who is receiving a finished product. It doesn't argue. It describes. Write it the way a product datasheet is written: what it is, what's in it, how it works, how it was tested.
 
 Imagine handing your project to someone who has to build, use, and maintain it without ever talking to you. Write what they need.
 
@@ -21,9 +21,9 @@ Imagine handing your project to someone who has to build, use, and maintain it w
 - **Point of contact.** Who to ask
 - **What changed from the proposal.** Half a page. What you said you'd build, what you actually built, and why it changed. Every real project deviates from its proposal; the difference between good and bad engineering is whether anyone wrote down why. If you dropped a feature after my feedback, say so. If you dropped one because a part never arrived, say that. **Changing your design does not cost you points here. Not being able to explain the change does.**
 
-**Visual communication is a graded criterion here, not a bonus.** Include at least three of the following, and they must be legible and labeled: a dimensioned drawing, a block or flow diagram, a photograph of the finished object with a scale reference, a plot of your test data, a CAD view, or an annotated sketch. Hand-drawn and photographed is fine. A specification made only of paragraphs will not score well no matter how good the paragraphs are.
+**Visual communication is a graded criterion here, not a bonus.** Include at least three of the following, and they must be legible and labeled: a dimensioned drawing, a block or flow diagram, a photograph of the finished object with a scale reference, a plot of your test data, a CAD view, or an annotated sketch. Hand-drawn and photographed is fine. A report made only of paragraphs will not score well no matter how good the paragraphs are.
 
-There's a sample specification attached from a previous student. Look at how much of it is lists and numbers rather than prose.
+There's a sample report attached from a previous student. Look at how much of it is lists and numbers rather than prose.
 
 Minimum two pages of text, plus figures.
 

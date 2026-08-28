@@ -42,7 +42,7 @@ Instructor: Dr. Scher
 - [Project: Topic](project-topic.html)
 - [Project: Proposal](project-proposal.html)
 - [Project: Presentation and Demo](project-presentation-and-demo.html)
-- [Project: Specification](project-specification.html)
+- [Project: Final Report](project-specification.html)
 - [Final Paper: Design Your Process](final-paper.html)
 
 ## Lectures

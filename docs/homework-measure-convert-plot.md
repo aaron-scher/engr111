@@ -27,7 +27,7 @@ State your result in the other unit system: SI if you measured in US customary u
 
 **3. Plot two figures**, in Excel or Google Sheets.
 
-- **Figure 1: your ten measurements.** Choose the chart that shows the spread honestly. This is a figure you can use in your presentation or your specification, so make it one you'd want there
+- **Figure 1: your ten measurements.** Choose the chart that shows the spread honestly. This is a figure you can use in your presentation or your final report, so make it one you'd want there
 - **Figure 2: one of the three data sets in the attached spreadsheet.** Pick the one closest to your interests. Each sheet says what the figure is for
 
 For each figure, a caption of one or two sentences saying what it shows and why this chart type was the right choice.
