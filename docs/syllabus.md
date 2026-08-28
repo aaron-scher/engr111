@@ -27,7 +27,7 @@ Upon completion of this course, you will be able to:
 
 ## Textbook
 
-Landis, Peuker, and Mott, *Studying Engineering: A Road Map to a Rewarding Career*, 5th edition, Discovery Press. E-book on RedShelf. The first week's reading is posted in Moodle so nobody is blocked; buy the book by the end of the second week. Felder's *Survival Guide* (eight pages) is provided. The [reading list](reading-list.html) says what to read each week.
+Landis, Peuker, and Mott, *Studying Engineering: A Road Map to a Rewarding Career*, 5th edition, Discovery Press. [E-book on RedShelf](https://redshelf.com/app/ecom/book/2700655/studying-engineering-a-road-map-to-a-rewarding-career-2700655-9798218472467-raymond-b-landis-steffen-peuker-jennifer-mott). The 4th edition will also work. The [reading list](reading-list.html) refers to the 5th edition.
 
 ## Where things are
 
