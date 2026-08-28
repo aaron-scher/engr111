@@ -75,7 +75,7 @@ Two rules.
 
 **The work is yours.** What you give the tool comes from your own thinking, your own measurements, your own conversations, and what you submit says what you actually think. I grade your work, not the tool's. Points will be deducted if a submission reads like something a tool wrote and you passed along without checking, editing, and making it your own, or if it does not reflect your own work.
 
-**You are responsible for the output.** Read what it gives you. Check it. It invents facts, it gets arithmetic and units wrong, and it will describe an object it has never seen. If a mistake it made ends up in your submission, it is your mistake.
+**You are responsible for the output.** Whatever you submit represents what you think and what you are claiming, no matter which tool helped you write it. "The AI gave me that answer" is not an excuse. Read what it gives you. Check it. It invents facts, it gets arithmetic and units wrong, and it will describe an object it has never seen. If a mistake it made ends up in your submission, it is your mistake.
 
 Some assignments only work if you do the real thing: measure it yourself, talk to the actual person, look at the object in your hand, build the thing. No tool can do those for you.
 
