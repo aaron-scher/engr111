@@ -18,7 +18,7 @@ Each page has the full instructions and the rubric.
 
 **What counts as a project**
 
-A working prototype that solves a problem for a person you can name, designed and built by you, with a result you can measure. It has to go through the design process: a stated need, specifications with numbers, alternatives you considered, a choice, a build, and a test.
+A working prototype that solves a problem, designed and built by you, with a result you can measure. It has to go through the design process: a stated need, specifications with numbers, alternatives you considered, a choice, a build, and a test.
 
 Something in it has to be your own design. Following a step-by-step build or assembling a kit does not count. Using a kit, a tutorial, or someone else's design as a starting point is fine if you change or add something to meet your need, and you can say what you changed and why.
 
