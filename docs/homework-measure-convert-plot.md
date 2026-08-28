@@ -1,9 +1,9 @@
 ---
-title: "Measure and Plot Assignment"
+title: "Measure and Plot Assignment 1"
 layout: default
 ---
 
-# Measure and Plot Assignment
+# Measure and Plot Assignment 1
 
 One PDF, organized in the three sections below, with the parts labeled as shown (1a, 1b, and so on).
 
