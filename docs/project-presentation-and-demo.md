@@ -5,14 +5,14 @@ layout: default
 
 # Project: Presentation and Demo
 
-You will present your project to the class live over Zoom. You have six minutes, then two minutes of questions. Practice it out loud with a timer.
+You will present the project you [proposed](project-proposal.html) to the class, live over Zoom. You have six minutes, then two minutes of questions. Practice it out loud with a timer.
 
 **Cover, in roughly this order**
 
 - The problem and who has it
 - Your constraints and criteria
 - The alternatives you considered and why you chose the one you built
-- What you actually built. Show it
+- What you actually built. Show it. Say what changed from your proposal, and why
 - Your test results, with numbers
 - What you'd do differently
 
