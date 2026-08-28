@@ -13,9 +13,7 @@ A paragraph or two, and it's not binding. Tell me:
 
 If you have two ideas and can't choose, describe both and say which way you're leaning.
 
-You can change your topic later. The point of this is that I find out early enough to help.
-
-I will reply to each one with feedback: go ahead, this is too big and here is what to cut, or come talk to me. Projects most often fail because they were too ambitious from the start; this is where that gets caught.
+You can change your topic later. The point of this is to catch a project that is too big before you start building it.
 
 Type it into the Moodle submission box. A diagram or photo is welcome but not required; attach it as a file.
 
