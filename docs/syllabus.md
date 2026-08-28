@@ -51,11 +51,11 @@ The project runs the whole term, on a topic you choose. It is the largest part o
 | Project: Topic (25), Proposal (125), Presentation and Demo (150), Final Report (125) | 4 | | 425 |
 | **Total** | | | **1000** |
 
-Letter grades: A 900 and above · B 800 to 899 · C 700 to 799 · D 600 to 699 · F below 600. No curve.
+Letter grades: A 900 and above · B 800 to 899 · C 700 to 799 · D 600 to 699 · F below 600.
 
 Every in-class work counts; nothing is dropped. There are no quizzes or exams.
 
-**How assignments are graded.** Homework and in-class work are graded on effort and thought, not on whether you reached a particular answer. I am looking for thoughtful answers at the college level, backed up by your reading, your numbers, or your reasoning. Work that is thin gets partial credit: questions skipped, a list with nothing behind it, or a post that could have been written without doing the reading or the activity.
+**How assignments are graded.** Homework and in-class work are graded on the quality of your thinking and on good-faith effort. I want to see that you are engaging with the material and learning from it: answers at the college level, backed up by your reading, your numbers, or your reasoning. Work that is thin gets partial credit: questions skipped, a list with nothing behind it, or a post that could have been written without doing the reading or the activity.
 
 In-class work is done in groups during the session and posted once, by one person, to that session's forum. Everyone named in the post gets the same score. If your name is not in the post, you get no credit for that session, so check the names before it goes up. Times given for in-class work are approximate; I set the clock in the session, and when your group has posted, you are done for the day. In-class work cannot be made up, because it is group work done live; that is the attendance policy.
 
