@@ -9,7 +9,7 @@ layout: default
 
 Each person gets about eight minutes:
 
-1. Describe your project in about two minutes: what it is, what it has to do, how you'll know it works, and what you changed after my feedback on your proposal
+1. Describe your project in about two minutes: what it is, what it has to do, how you'll know it works, and what you changed after my feedback on your [proposal](project-proposal.html)
 2. The group asks questions for about three minutes. For example: what happens if that part doesn't fit? How are you measuring that? What's your backup if the sensor doesn't arrive?
 3. The group agrees on **the single biggest risk to that project finishing on time**, and on what to do about it. One risk, not a list
 

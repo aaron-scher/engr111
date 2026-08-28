@@ -7,7 +7,7 @@ layout: default
 
 **We do this live in class.** Small breakout rooms.
 
-Everyone presents for six minutes, exactly as you will for the real thing. Share your screen. Use your actual slides. If your demo isn't ready, describe what it will be.
+Everyone presents for six minutes, exactly as you will for the [real thing](project-presentation-and-demo.html). Share your screen. Use your actual slides. If your demo isn't ready, describe what it will be.
 
 After each person, the group gives two things and only two:
 

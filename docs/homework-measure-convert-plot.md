@@ -27,7 +27,7 @@ One PDF, organized in the three sections below, with the parts labeled as shown 
 
 **3. Plot.** Any tool, but say which one and how you made each figure.
 
-3a. Figure 1: your ten readings, in a chart that shows the spread honestly.
+3a. Figure 1: your ten readings, in a chart that shows the spread honestly. If it is a project measurement, you can reuse this figure in your [presentation](project-presentation-and-demo.html) and [final report](project-specification.html).
 
 3b. Figure 2: the data below, the position of a ball dropped from a tall building. Show how position changes with time.
 
