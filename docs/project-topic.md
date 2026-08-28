@@ -17,4 +17,4 @@ You can change your topic later. The point of this is to catch a project that is
 
 Type it into the Moodle submission box. A diagram or photo is welcome but not required; attach it as a file.
 
-**Grading.** Full credit for a real topic, on time. A late topic still gets my reply. Otherwise, grading and the AI policy are in the syllabus.
+**Grading.** Full credit for a real topic, on time. Otherwise, grading and the AI policy are in the syllabus.
