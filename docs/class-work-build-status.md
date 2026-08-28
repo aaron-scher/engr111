@@ -18,7 +18,7 @@ Each person gets about eight minutes:
 
 - Subject line: your room number
 - First line: everyone's full names
-- One line per person, starting with their name: what they showed, what is blocking them, and the group's suggestion
+- For each person, starting with their name: what they showed, what is blocking them, and the group's suggestion
 - For anyone the group thinks will not finish in time: what you agreed to cut
 
 **Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the syllabus. Specific to this one: step 4 is the point. An honest "this will not finish, cut this part" is worth more than a polite "looks good."
