@@ -5,7 +5,7 @@ layout: default
 
 # Project: Presentation and Demo
 
-Six minutes, then two minutes of questions. Six is short. Practice it out loud with a timer.
+You will present your project to the class live over Zoom. You have six minutes, then two minutes of questions. Six is short. Practice it out loud with a timer.
 
 **Cover, in roughly this order**
 
@@ -16,7 +16,7 @@ Six minutes, then two minutes of questions. Six is short. Practice it out loud w
 - Your test results, with numbers
 - What you'd do differently
 
-**The demo.** Show the thing working. Live over Zoom is best: hold it up, share your screen, run the code. **A pre-recorded video is completely acceptable** and is often the smarter choice: it removes the risk of a live failure, and you can shoot the detail that's hard to see on a webcam. Two minutes maximum, and it counts inside your six.
+**The demo.** Show the thing working: hold it up to the camera, share your screen, run the code. You may use a pre-recorded video for the demo, up to two minutes, and it counts inside your six. The rest of the presentation is live; the video is for the part that is risky or hard to see on a webcam.
 
 **If it doesn't work, present it anyway.** A project that failed, where you can explain precisely what went wrong and what you'd change, scores well. A project that "works" with no evidence and no numbers does not. See the rubric.
 
