@@ -24,7 +24,7 @@ Cover all five:
 
 **Include at least one sketch or diagram.** Hand-drawn and photographed is completely fine. I am not grading your drawing, I'm grading whether I can see what you mean.
 
-Two to four pages. There's a sample proposal attached from a previous student.
+Two to four pages. Submit one PDF. There's a sample proposal attached from a previous student.
 
 **How it's graded**
 

@@ -19,4 +19,6 @@ Give the URL where you found each number.
 
 Then two or three sentences: was this what you expected? Did any of it change how you feel about that discipline?
 
+Type your answers into the Moodle submission box: number them 1 to 3 with the URL next to each, then your sentences.
+
 Grading and the AI policy are in the syllabus.

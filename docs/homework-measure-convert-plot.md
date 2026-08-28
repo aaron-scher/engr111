@@ -39,4 +39,6 @@ Both figures need:
 - Readability in grayscale
 - No chart junk
 
+Submit one PDF with both figures in it.
+
 Grading and the AI policy are in the syllabus.

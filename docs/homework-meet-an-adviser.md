@@ -32,4 +32,6 @@ If you meet the transfer school's adviser, you'll get the sharper answers about 
 - Your term-by-term plan through transfer. A photo or screenshot of what you built together is fine. It doesn't need to be pretty; it needs to have course numbers and terms on it
 - Two or three sentences: what did you not know before the meeting?
 
+Type it into the Moodle submission box. The plan can be pasted in as an image or attached as a file.
+
 **Grading.** No meeting, no credit. Otherwise, grading and the AI policy are in the syllabus.

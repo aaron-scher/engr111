@@ -42,6 +42,8 @@ Use questions from the list below if you like, but write at least two of your ow
 
 **"I don't know anybody."** Most of you don't, and that's the normal starting position for this assignment rather than a reason you can't do it. Nobody knows anybody at first. Work down the list: ask around, email a society outreach chair, send ten LinkedIn messages, and if all of that comes up empty, email a CCC instructor. That last option is always available, so there is no version of this where you end up with nobody.
 
+Type it into the Moodle submission box.
+
 **Grading.** No conversation, no credit. Otherwise, grading and the AI policy are in the syllabus.
 
 **Questions you could ask**

@@ -14,4 +14,6 @@ Short assignment. Answer all six in a few sentences each. This tells me who is i
 5. What do you want to get out of this course?
 6. Anything about your schedule or situation I should know? Working full time, caring for family, anything that will affect when you can be online.
 
+Type your answers into the Moodle submission box, numbered to match.
+
 Grading and the AI policy are in the syllabus.

@@ -25,7 +25,7 @@ Imagine handing your project to someone who has to build, use, and maintain it w
 
 There's a sample report attached from a previous student. Look at how much of it is lists and numbers rather than prose.
 
-Minimum two pages of text, plus figures.
+Minimum two pages of text, plus figures. Submit one PDF.
 
 **How it's graded**
 

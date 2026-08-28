@@ -17,7 +17,7 @@ The third one is the assignment. The first two exist to make it answerable.
 
 This draws on your earlier homework and on your adviser meeting. If you wrote those honestly, most of the raw material is already yours.
 
-Minimum five full pages, 1.5 spacing, 12 point, 1 inch margins. Two sample papers from previous students are attached. The original version of this assignment is Appendix A of your textbook if you want to see where it comes from.
+Minimum five full pages, 1.5 spacing, 12 point, 1 inch margins. Submit one PDF. Two sample papers from previous students are attached. The original version of this assignment is Appendix A of your textbook if you want to see where it comes from.
 
 **The items**
 
