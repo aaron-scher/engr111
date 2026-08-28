@@ -79,7 +79,7 @@ Two rules.
 
 Some assignments only work if you do the real thing: measure it yourself, talk to the actual person, look at the object in your hand, build the thing. No tool can do those for you.
 
-If you used AI on an assignment, add one line at the end saying how. There is no penalty for using AI within this policy. If it is obvious that you wrote with AI, or an AI check says you did, and you did not say so, points can be deducted.
+If you used AI on an assignment, add one line at the end saying how. Treat it like citing a source, not like a confession: using AI within this policy costs nothing, and saying so costs nothing. What I grade is the work. A submission that is not really yours gets partial credit whether or not you say a tool wrote it. Leaving out the line when it is obvious that you wrote with AI, or when an AI check says you did, turns a grading question into an honesty question; see Academic honesty below.
 
 ## Academic honesty
 
