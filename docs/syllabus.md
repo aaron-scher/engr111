@@ -36,8 +36,7 @@ Landis, Peuker, and Mott, *Studying Engineering: A Road Map to a Rewarding Caree
 
 ## How the course works
 
-Monday is a lecture. Wednesday is a short lecture and then in-class work in small breakout rooms, posted to a Moodle forum by one person per group. On several Wednesdays the last half hour is open time for project questions, one group or one student at a time.
-
+Monday is a lecture. Wednesday is a short lecture and then in-class work in small breakout rooms, posted to a Moodle forum by one person per group.
 The project runs the whole term, on a topic you choose. It is the largest part of your grade. See [The Project](project-overview.html).
 
 ## Grading
