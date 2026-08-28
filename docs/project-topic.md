@@ -17,4 +17,4 @@ You can change your topic later. The point of this is that I find out early enou
 
 **I'll reply to every one of these within three days** with one of three answers: go ahead, this is too big and here's what to cut, or come talk to me. The most common reason a project fails in this course is that it was too ambitious on day one, and this paragraph is where that gets caught cheaply.
 
-**Grading.** On time matters here more than anywhere else: the reply is the point, so a late topic still gets a reply, but not the points. Otherwise, grading and the AI policy are in the syllabus.
+**Grading.** Full credit for a real paragraph, on time. A late topic still gets my reply. Grading, the late policy, and the AI policy are in the syllabus.
