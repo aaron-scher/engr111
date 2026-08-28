@@ -21,7 +21,7 @@ Imagine handing your project to someone who has to build, use, and maintain it w
 - **Point of contact.** Who to ask
 - **What changed from the proposal.** Half a page. What you said you'd build, what you actually built, and why it changed. Every real project deviates from its proposal; write down why. If you dropped a feature after my feedback, say so. If you dropped one because a part never arrived, say that. **Changing your design does not cost you points here. Not being able to explain the change does.**
 
-**Visual communication is a graded criterion here, not a bonus.** Include at least three of the following, and they must be legible and labeled: a dimensioned drawing, a block or flow diagram, a photograph of the finished object with a scale reference, a plot of your test data, a CAD view, or an annotated sketch. Hand-drawn and photographed is fine. A report with no figures will not score well.
+**Visual communication is a graded criterion here, not a bonus.** Include at least three of the following, and they must be legible and labeled: a dimensioned drawing, a block or flow diagram, a photograph of the finished object with a scale reference, a plot of your test data, a CAD view, or an annotated photograph. Drawings and diagrams are made with software, not sketched by hand. A report with no figures will not score well.
 
 There's a sample report attached from a previous student. Look at how much of it is lists and numbers rather than prose.
 

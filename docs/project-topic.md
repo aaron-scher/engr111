@@ -17,6 +17,6 @@ You can change your topic later. The point of this is that I find out early enou
 
 I will reply to each one with feedback: go ahead, this is too big and here is what to cut, or come talk to me. Projects most often fail because they were too ambitious from the start; this is where that gets caught.
 
-Type it into the Moodle submission box. A sketch or photo is welcome but not required; attach it as a file.
+Type it into the Moodle submission box. A diagram or photo is welcome but not required; attach it as a file.
 
 **Grading.** Full credit for a real topic, on time. A late topic still gets my reply. Otherwise, grading and the AI policy are in the syllabus.

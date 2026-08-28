@@ -22,7 +22,7 @@ Cover all five:
 
 **e. How you'll test it.** What measurement tells you it worked? What's the number, and what tool are you using to get it? "It works" is not a test.
 
-**Include at least one sketch or diagram.** Hand-drawn and photographed is completely fine. I am not grading your drawing, I'm grading whether I can see what you mean.
+**Include at least one diagram**, made with software: PowerPoint, Google Slides, draw.io, Tinkercad, a CAD program, whatever you have. Not a hand sketch. It has to show what the words cannot.
 
 Two to four pages. Submit one PDF. There's a sample proposal attached from a previous student.
 
@@ -35,4 +35,4 @@ Two to four pages. Submit one PDF. There's a sample proposal attached from a pre
 | **Alternatives** (20) | At least two genuinely different approaches, each described well enough to picture, each would fail for a different reason | Two alternatives, one thin | Two versions of the same idea, or one alternative clearly there to lose | One design only |
 | **The decision** (20) | Matrix shown, scores and weights visible, the choice follows from it, and the writer says whether the matrix agreed with their instinct | Matrix shown, choice follows, no discussion | Matrix present but the choice was clearly made first | No ranking |
 | **Test plan** (20) | Each priority has a measurement, a number that counts as passing, and the tool that will produce it | Measurements named, pass numbers missing | "I'll see if it works" | No test plan |
-| **Sketch or diagram** (15) | At least one, legible, labeled, and it shows something the text alone could not | Present and legible, adds little | Present, hard to read or unlabeled | None |
+| **Diagram** (15) | At least one, legible, labeled, and it shows something the text alone could not | Present and legible, adds little | Present, hard to read or unlabeled | None |
