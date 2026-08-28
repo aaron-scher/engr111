@@ -16,7 +16,7 @@ Cover all five:
 - *Constraints*: the pass/fail requirements. It must fit in this space, cost under this much, hold this weight, run for this long. Each one with a number and a unit
 - *Priorities*: the things you're optimizing for, with weights. Say which matters more and by how much
 
-**c. At least two real alternatives.** Genuinely different approaches, not two versions of the same idea. Describe each one well enough that I could picture it.
+**c. At least two alternative ways to solve your problem.** Different approaches to the same problem, not two versions of the same design. Describe each one well enough that I could picture it.
 
 **d. How you chose.** Use a decision matrix (the [spreadsheet template](files/decision-matrix.xlsx) from class, or your own). Show the weights and say why they're what they are.
 
