@@ -12,9 +12,13 @@ One PDF, parts labeled a to h.
 **Measure.** Pick a quantity you can measure ten times with something you own. From your project if possible: the voltage your battery delivers, the time your mechanism takes to cycle, the mass of a part on a kitchen scale. Otherwise anything real: how long a kettle takes to boil, the length of a room by pacing it. Reset between readings and measure again. Reading the same ruler ten times without moving anything gives ten copies of one number, not ten measurements.
 
 a. What you measured, with what instrument, and how. Include a photo of your setup.
+
 b. All ten readings, including the one that looks wrong. Do not clean up your numbers.
+
 c. Mean and standard deviation.
+
 d. Your result as mean ± standard deviation, with units. For example, 42.3 ± 0.6 s.
+
 e. Two or three sentences: where did the variation come from? The instrument, you, the environment, or the thing itself?
 
 **Convert.**
@@ -24,6 +28,7 @@ f. Convert your mean to the other unit system: SI if you measured in US customar
 **Plot.** Any tool.
 
 g. Figure 1: your ten readings, in a chart that shows the spread honestly.
+
 h. Figure 2: the data below, the position of a ball dropped from a tall building. Show how position changes with time.
 
 | Time (s) | Position (m) |
