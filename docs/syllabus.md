@@ -47,7 +47,7 @@ The project runs the whole term, on a topic you choose. It is the largest part o
 | Homework 1 to 6 | 6 | 25 | 150 |
 | Conversation Assignments 1 and 2 | 2 | 50 | 100 |
 | In-Class Work 1 to 8 | 8 | 25 | 200 |
-| Measure and Plot | 1 | 50 | 50 |
+| Measure and Plot Assignment | 1 | 50 | 50 |
 | Final paper: Design Your Process | 1 | 100 | 100 |
 | Project: Topic (25), Proposal (125), Presentation and Demo (125), Final Report (125) | 4 | | 400 |
 | **Total** | | | **1000** |
@@ -137,12 +137,12 @@ Lectures are numbered by session; the Wednesdays without a lecture are in-class 
 | Mon Nov 9 | [13 · Ethics and Professional Licensure](lectures/lecture-13-ethics-and-professional-licensure.pdf) |  |  |
 | Wed Nov 11 | College closed |  |  |
 | Fri Nov 13 |  |  | [Homework 6](reflection-ethics.html) |
-| Mon Nov 16 | [14 · Estimation, Measurement, and Error](lectures/lecture-14-estimation-measurement-and-error.pdf) |  | [Conversation 1](homework-meet-an-adviser.html) · [Measure and Plot](homework-measure-convert-plot.html) opens |
+| Mon Nov 16 | [14 · Estimation, Measurement, and Error](lectures/lecture-14-estimation-measurement-and-error.pdf) |  | [Conversation 1](homework-meet-an-adviser.html) · [Measure and Plot Assignment](homework-measure-convert-plot.html) opens |
 | Wed Nov 18 | none | [In-Class Work 7: Build Status and Risk](class-work-build-status.html) · open half hour |  |
 | Fri Nov 20 |  |  | [Final paper: Design Your Process](final-paper.html) |
 | Mon Nov 23 | [16 · Presenting Technical Information](lectures/lecture-16-presenting-technical-information.pdf) |  |  |
 | Wed Nov 25 | none | [In-Class Work 8: Presentation Dry Run](class-work-presentation-dry-run.html) · open half hour |  |
-| Mon Nov 30 | [18 · What Comes Next](lectures/lecture-18-what-comes-next.pdf) | [Resume review in pairs, ungraded](breakout-peer-resume-review.html) | [Measure and Plot](homework-measure-convert-plot.html) |
+| Mon Nov 30 | [18 · What Comes Next](lectures/lecture-18-what-comes-next.pdf) | [Resume review in pairs, ungraded](breakout-peer-resume-review.html) | [Measure and Plot Assignment](homework-measure-convert-plot.html) |
 | Wed Dec 2 | none | **[Project presentations and demos, Group A](project-presentation-and-demo.html)**, six minutes plus questions each | [Slides, before your slot](project-presentation-and-demo.html) |
 | Wed Dec 9, 8:00 | none | **[Project presentations and demos, Group B](project-presentation-and-demo.html)** | [Slides, before your slot](project-presentation-and-demo.html) |
 | Fri Dec 11 |  |  | [Project: Final Report](project-specification.html) |

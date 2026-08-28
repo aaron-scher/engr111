@@ -23,9 +23,9 @@ Instructor: Dr. Scher
 - [Conversation 1: Meet an Adviser](homework-meet-an-adviser.html)
 - [Conversation 2: Informational Interview](homework-informational-interview.html)
 
-## Measure and Plot
+## Measure and Plot Assignment
 
-- [Measure and Plot](homework-measure-convert-plot.html)
+- [Measure and Plot Assignment](homework-measure-convert-plot.html)
 
 ## In-class work
 
