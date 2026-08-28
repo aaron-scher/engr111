@@ -48,7 +48,7 @@ The project runs the whole term, on a topic you choose. It is the largest part o
 | Conversation Assignments 1 and 2 | 2 | 50 | 100 |
 | In-Class Work 1 to 8 | 8 | 25 | 200 |
 | Final paper: Design Your Process | 1 | 100 | 100 |
-| Project: Topic 25, Proposal 125, Presentation and Demo 150, Final Report 125 | 4 | | 425 |
+| Project: Topic (25), Proposal (125), Presentation and Demo (150), Final Report (125) | 4 | | 425 |
 | **Total** | | | **1000** |
 
 Letter grades: A 900 and above · B 800 to 899 · C 700 to 799 · D 600 to 699 · F below 600. No curve. If you are considering the pass/no pass option, check with your transfer school first; many engineering programs do not accept it.
