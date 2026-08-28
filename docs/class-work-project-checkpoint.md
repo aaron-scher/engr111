@@ -19,6 +19,6 @@ Each person gets about eight minutes:
 
 - Subject line: your room number
 - First line: everyone's full names
-- For each person: one sentence describing their project, and the one risk the group named
+- One line per person, starting with their name: their project in one sentence, then the one risk the group named
 
 **Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the syllabus. I'm reading the risks. Naming a real one is the whole exercise, and "they might run out of time" is not a real one.

@@ -30,9 +30,10 @@ Expect to disagree about the numbers. That argument is the assignment. The numbe
 
 - Subject line: your room number and who your customer turned out to be
 - First line: everyone's full names, separated by commas
-- Your three constraints, with numbers and units
-- Your three criteria, ranked
-- The one thing you'd go find out, and how
+- Who your customer is, in one or two sentences
+- Your three constraints, one per line, each with a number and a unit
+- Your three criteria, one per line, ranked, most important first
+- The one thing you'd go find out, and how, in one or two sentences
 
 **Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the syllabus. One thing specific to this one: a constraint without a number in it doesn't count as a constraint. "It should be affordable" is a wish; "$40 or less" is a constraint.
 

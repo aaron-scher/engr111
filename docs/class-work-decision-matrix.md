@@ -42,7 +42,10 @@ Then the part I actually care about: **is the winner the design you would build?
 
 - Subject line: the design that won
 - First line: everyone's full names
-- Your specifications, your three designs, anything you screened out, your criteria with weights, and the scores
+- Your specifications, one per line, each with a number and a unit
+- Your three designs, one line each
+- Anything you screened out, and which specification it failed
+- The matrix: criteria with weights, scores 1 to 5, and totals. Paste it in as a table, or attach a screenshot or photo of your spreadsheet
 - One sentence: did the matrix pick the design you actually wanted? If not, what did you do about it?
 
 **Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the syllabus. Specific to this one: a specification without a number in it doesn't count, three designs that fail the same way count as one, and that last sentence is the one I'm really reading.

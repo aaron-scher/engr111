@@ -20,7 +20,7 @@ In your room:
 
 - Subject line: the process you recommend
 - First line: everyone's full names
-- Your three revenue figures, with units
+- Your three revenue figures, with units, and the arithmetic for at least one of them so I can see how you handled the units
 - One sentence on why you picked what you picked
 - One sentence on what's missing from the data
 

@@ -18,7 +18,7 @@ Each person gets about eight minutes:
 
 - Subject line: your room number
 - First line: everyone's full names
-- For each person: what they showed, what's blocked, and the group's suggestion
+- One line per person, starting with their name: what they showed, what's blocked, and the group's suggestion
 - Flag anyone the group thinks won't finish, and what you told them to cut
 
 **Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the syllabus. Step 4 is the point. Telling a classmate honestly that their project is too big is doing them a favor, and it's what I'd want a colleague to tell me.
