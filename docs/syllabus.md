@@ -47,7 +47,7 @@ The project runs the whole term, on a topic you choose. It is the largest part o
 | Homework 1 to 7 | 7 | 25 | 175 |
 | Conversation Assignments 1 and 2 | 2 | 50 | 100 |
 | In-Class Work 1 to 8 | 8 | 25 | 200 |
-| [Final paper: Design Your Process](final-paper.html) | 1 | 100 | 100 |
+| Final paper: Design Your Process | 1 | 100 | 100 |
 | Project: topic 25, proposal 125, presentation and demo 150, specification 125 | 4 | | 425 |
 | **Total** | | | **1000** |
 
