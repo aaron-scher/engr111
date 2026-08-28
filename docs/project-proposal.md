@@ -5,7 +5,7 @@ layout: default
 
 # Project: Proposal
 
-This is the document that gets your project approved. Base it on your [project topic](project-topic.html) and the feedback you got on it; the proposal is the next step of the same project.
+This is the document that gets your project approved. Base it on your [project topic](project-topic.html) and the feedback you got on it.
 
 Cover all five:
 
