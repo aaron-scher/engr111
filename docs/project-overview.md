@@ -20,7 +20,7 @@ Each page has the full instructions and the rubric.
 
 A working prototype that solves a problem, designed and built by you, with a result you can measure. It has to go through the design process: a stated need, specifications with numbers, alternatives you considered, a choice, a build, and a test.
 
-Part of the design has to be your own. Assembling a kit or following a step-by-step build does not count. You can start from a kit, a tutorial, or someone else's design, but you have to make a real change or addition of your own to meet your need, and you have to be able to explain what you changed and why.
+Part of the design has to be your own. Assembling a kit or following a step-by-step build does not count. You can start from a kit, a tutorial, or someone else's design, but you have to make a nontrivial change or addition of your own to meet your need, and you have to be able to explain what you changed and why.
 
 It does not have to be electrical or complicated. It has to be finishable this term alongside your other classes.
 
