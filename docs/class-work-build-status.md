@@ -1,9 +1,9 @@
 ---
-title: "In-Class Work 7: Build Status and Risk"
+title: "In-Class Work 7: Project Build Status and Risk"
 layout: default
 ---
 
-# In-Class Work 7: Build Status and Risk
+# In-Class Work 7: Project Build Status and Risk
 
 **We do this live in class.** Small breakout rooms. This is the second check on your project, same format as In-Class Work 6. By now you should have part of your project built or running.
 

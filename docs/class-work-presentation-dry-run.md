@@ -1,9 +1,9 @@
 ---
-title: "In-Class Work 8: Presentation Dry Run"
+title: "In-Class Work 8: Project Presentation Dry Run"
 layout: default
 ---
 
-# In-Class Work 8: Presentation Dry Run
+# In-Class Work 8: Project Presentation Dry Run
 
 **We do this live in class.** Small breakout rooms.
 
