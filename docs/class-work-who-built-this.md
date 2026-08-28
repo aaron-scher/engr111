@@ -17,7 +17,7 @@ layout: default
 
 Answer two questions:
 
-1. Which engineering disciplines had to work on this thing?
+1. Which engineering disciplines had to work on this thing? A list, one line per discipline, with a few words on what that discipline did here. Four to eight lines is typical.
 2. If it fails in the field and someone gets hurt, which single discipline is most responsible? Defend your pick in one sentence.
 
 Question 2 has no right answer. Argue about it. Pick one and commit.
@@ -28,4 +28,4 @@ Question 2 has no right answer. Argue about it. Pick one and commit.
 - First line of the post: everyone's full names, separated by commas
 - Then your two answers
 
-**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the syllabus. Full credit does not depend on whether I agree with your pick. Class work happens most weeks.
+**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the syllabus.
