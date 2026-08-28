@@ -66,6 +66,12 @@ Instructor: Dr. Scher
 - [Lecture 16: Presenting Technical Information](lectures/lecture-16-presenting-technical-information.pdf)
 - [Lecture 18: What Comes Next](lectures/lecture-18-what-comes-next.pdf)
 
+## Files
+
+- [Decision matrix template](files/decision-matrix.xlsx), a spreadsheet
+- [Crude oil production data](files/crude-oil-production.xlsx), for In-Class Work 5
+- [Unit conversions practice](files/unit-conversions-practice.pdf), ungraded, and its [solutions](files/unit-conversions-practice-solutions.pdf)
+
 ## Reading
 
 - [Reading list](reading-list.html)

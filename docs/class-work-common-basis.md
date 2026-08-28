@@ -5,7 +5,7 @@ layout: default
 
 # In-Class Work 5: A Common Basis
 
-**We do this live in class.** Small breakout rooms, about 30 minutes. I'll tell you the exact time in class. The spreadsheet is attached.
+**We do this live in class.** Small breakout rooms, about 30 minutes. I'll tell you the exact time in class. The data is in [this spreadsheet](files/crude-oil-production.xlsx).
 
 You're engineers at a refinery. Three processes are available. Each one produces a different mix of gasoline, kerosene, paraffin wax, asphalt, and diesel, and each product sells at a different price. Your job is to recommend one process.
 
