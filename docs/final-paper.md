@@ -5,7 +5,7 @@ layout: default
 
 # Final Paper: Design Your Process for Becoming a World-Class Engineering Student
 
-Engineers design products and processes. This time the process you're designing is your own.
+This paper is your plan for how you will work as an engineering student.
 
 For each item on the list below, tell me three things:
 
@@ -13,9 +13,9 @@ For each item on the list below, tell me three things:
 - Where you actually are
 - What you'll do to close the gap
 
-The third one is the assignment. The first two exist to make it answerable.
+The third is the main part.
 
-This draws on your earlier homework and on your adviser meeting. If you wrote those honestly, most of the raw material is already yours.
+This draws on your earlier homework and on your adviser meeting. Much of the material is already in those.
 
 Minimum five full pages, 1.5 spacing, 12 point, 1 inch margins. Submit one PDF. Two sample papers from previous students are attached. The original version of this assignment is Appendix A of your textbook if you want to see where it comes from.
 

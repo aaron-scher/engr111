@@ -5,7 +5,7 @@ layout: default
 
 # The Project
 
-You will design and build something this term, on a topic you choose, and you'll take it through the whole engineering design process: define a need, write the specifications, consider alternatives, choose one, build it, test it, and hand it over. The project is the largest part of your grade and the part of this course you'll remember.
+You will design and build something this term, on a topic you choose, and you'll take it through the whole engineering design process: define a need, write the specifications, consider alternatives, choose one, build it, test it, and hand it over. The project is the largest part of your grade.
 
 **What you'll produce, in order**
 
@@ -31,12 +31,12 @@ The project is individual. You may get help, buy parts, and use tutorials; the d
 - A water filter from natural materials; a plan to rehabilitate a pond overrun by algae; a set of small bridges built and tested to failure
 - A custom workbench; a 3D-printed drone case; a secret latch for a backyard gate; a baby stroller for trails
 
-Notice how many of these are ordinary. The best projects in this course are usually small things done properly, with real measurements, not ambitious things half-finished.
+Many of these are ordinary. Small things done properly, with real measurements, score better than ambitious things half-finished.
 
 **Three things that decide whether it goes well**
 
 - **Keep the scope realistic.** The most common mistake is a project that is too ambitious on day one. Choose something you are confident you can finish; if you finish early, add a feature. It is much easier to add to a project that works than to rescue one that was too big
-- **Start early.** Parts take time to arrive and the first build rarely works. Projects that start late usually don't get finished, and it shows in the presentation
+- **Start early.** Parts take time to arrive and the first build rarely works. Projects that start late usually don't get finished
 - **Measure something.** Every project needs at least one number you measured that shows whether it met its specifications. "It works" is not a result
 
 **Where to build, and where to look**

@@ -14,7 +14,7 @@ After each person, the group gives two things and only two:
 - One thing that was clear
 - One thing they didn't understand
 
-No general praise, no "that was great." The second item is the useful one, and you have to name something.
+No general praise. Name something specific for both.
 
 **One person posts for the group** to the In-Class Work 8 forum:
 
@@ -22,4 +22,4 @@ No general praise, no "that was great." The second item is the useful one, and y
 - First line: everyone's full names
 - For each person, starting with their name: the one thing that was clear and the one thing that wasn't
 
-**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the syllabus. If a post says everything was clear for all four people, I'm going to assume you didn't do it.
+**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the syllabus. A post that says everything was clear for everyone will not get credit.

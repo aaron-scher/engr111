@@ -15,7 +15,7 @@ Three or four sentences is enough. If you have two ideas and can't choose, descr
 
 You can change your topic later. The point of this is that I find out early enough to help.
 
-**I'll reply to every one of these within three days** with one of three answers: go ahead, this is too big and here's what to cut, or come talk to me. The most common reason a project fails in this course is that it was too ambitious on day one, and this paragraph is where that gets caught cheaply.
+**I'll reply to every one of these within three days** with one of three answers: go ahead, this is too big and here's what to cut, or come talk to me. Projects most often fail because they were too ambitious from the start; this paragraph is where that gets caught.
 
 Type it into the Moodle submission box.
 

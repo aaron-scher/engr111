@@ -7,9 +7,9 @@ layout: default
 
 Have a twenty-minute conversation with someone who does technical work for a living. Not a student. Someone doing the job.
 
-This is not a job interview and you should not treat it as one. You're gathering information, and finding the person is half the assignment.
+This is not a job interview. You are gathering information. Finding the person is part of the assignment.
 
-**Who counts.** Wider than you'd think:
+**Who counts:**
 
 - Any working engineer, in any discipline, **anywhere in the world**. There is no reason this person has to be in Oregon, or in the United States
 - Engineering-adjacent technical work counts too: a technician, machinist, surveyor, architect, software developer, construction manager, lab manager, industrial designer
@@ -17,16 +17,16 @@ This is not a job interview and you should not treat it as one. You're gathering
 
 **Where to find one, roughly in order of how well it works:**
 
-1. **People already in your life.** A parent, a neighbor, a former boss, a friend's parent, someone from your old job. Almost every student underestimates this one. Ask around before you do anything else
-2. **Professional and technical societies.** These organizations exist partly to talk to students, and their outreach people are not hard to reach. ASCE Portland Younger Member Forum runs student outreach year-round, including over Zoom. IEEE Oregon Section, ASME, AIChE, and the Society of Women Engineers all have Portland-area chapters with outreach or student contacts listed on their websites. Find the outreach chair, email them, say you're an ENGR-111 student who needs twenty minutes
-3. **LinkedIn, cold.** Better than you expect. Search a company and a job title, then send something short and specific:
+1. **People already in your life.** A parent, a neighbor, a former boss, a friend's parent, someone from your old job. Ask around before you do anything else
+2. **Professional and technical societies.** Their outreach people are used to hearing from students. ASCE Portland Younger Member Forum runs student outreach year-round, including over Zoom. IEEE Oregon Section, ASME, AIChE, and the Society of Women Engineers all have Portland-area chapters with outreach or student contacts listed on their websites. Find the outreach chair, email them, say you're an ENGR-111 student who needs twenty minutes
+3. **LinkedIn.** Search a company and a job title, then send something short and specific:
 
    > *Hi ____, I'm a first-year engineering student at Clackamas Community College. I'm trying to work out whether civil engineering is the right path for me, and I'd rather ask someone doing the job than read another article about it. Could I ask you five questions, twenty minutes, whenever suits you? Happy to work around your schedule.*
 
-   Short, specific, easy to say yes to, and no ask beyond twenty minutes. Send ten of these. You do not need ten yeses, you need one
-4. **A CCC instructor.** This one is guaranteed. Every instructor here who teaches in a technical field has an engineering or science background and a job you could ask about. Email one and ask for twenty minutes. **If everything else fails, this is your answer**, and it is a real informational interview, not a consolation prize
+   Send ten of these. You need one yes
+4. **A CCC instructor.** This one is guaranteed. Every instructor here who teaches in a technical field has an engineering or science background and a job you could ask about. Email one and ask for twenty minutes. **If everything else fails, this is your answer**, and it counts fully
 
-**What I will and won't do.** I'll look over your outreach message before you send it, and I'll help you think about who to approach. Ask me. I won't hand you a contact. Doing the finding yourself is the half of this assignment that will still be paying off in ten years.
+**What I will and won't do.** I'll look over your outreach message before you send it, and I'll help you think about who to approach. Ask me. I won't hand you a contact; finding the person is part of the assignment.
 
 **What to submit**
 
@@ -38,9 +38,9 @@ Use questions from the list below if you like, but write at least two of your ow
 
 **Send a thank-you note afterward.** Email is fine. You may need this person again.
 
-**Start now.** People take a week or two to get back to you. Every term, the students who lose points on this are the ones who tried to schedule it the week it was due.
+**Start now.** People take a week or two to reply, and the conversation has to happen before the due date.
 
-**"I don't know anybody."** Most of you don't, and that's the normal starting position for this assignment rather than a reason you can't do it. Nobody knows anybody at first. Work down the list: ask around, email a society outreach chair, send ten LinkedIn messages, and if all of that comes up empty, email a CCC instructor. That last option is always available, so there is no version of this where you end up with nobody.
+**If you don't know anybody**, that is the normal starting position. Work down the list: ask around, email a society outreach chair, send ten LinkedIn messages, and if all of that comes up empty, email a CCC instructor.
 
 Type it into the Moodle submission box.
 

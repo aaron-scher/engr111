@@ -12,4 +12,4 @@ Between 300 and 500 words. Do the ethics reading first, then answer both:
 
 Type your answer into the Moodle submission box.
 
-This one has more right and wrong in it than the other homework, but I'm still grading effort and thinking, not whether you landed where I would. Grading and the AI policy are in the syllabus.
+Grading and the AI policy are in the syllabus.

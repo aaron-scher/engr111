@@ -9,7 +9,7 @@ layout: default
 
 In your room:
 
-1. From the reading and today's slides, list the job functions you can name between you. Don't look them up first. See what stuck
+1. From the reading and today's slides, list the job functions you can name between you. Don't look them up first
 2. Then pick one technology your group agrees on. A wind turbine, an insulin pump, a bridge, a game engine, whatever
 3. For that technology, name a specific task that each of four different job functions would own
 4. Each person says which function appeals to them most and which they'd hate. Then the group names one attribute each of those jobs demands

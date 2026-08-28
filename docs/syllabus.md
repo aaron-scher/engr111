@@ -92,7 +92,7 @@ Everyone in this course agrees to three things:
 
 Everything you submit for credit is your own work. Study together, argue about the problems, help each other: that is encouraged, and the in-class work is built on it. The line is copying. Turning in another student's work, or handing yours to someone else to turn in, is copying, and both people get a zero for that assignment. So is turning in something a tool wrote and you passed along; see Using AI above.
 
-Anything beyond that is covered by CCC's Student Code of Conduct, which defines academic misconduct as "actual or attempted fraud, deceit, or unauthorized use of materials prohibited or inappropriate in the context of the academic assignment." I would rather never open that document. If the work is yours, we never will.
+Anything beyond that is covered by CCC's Student Code of Conduct, which defines academic misconduct as "actual or attempted fraud, deceit, or unauthorized use of materials prohibited or inappropriate in the context of the academic assignment." If the work is yours, it will never come up.
 
 ## College resources and policies
 

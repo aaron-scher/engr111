@@ -18,7 +18,7 @@ Six minutes, then two minutes of questions. Six is short. Practice it out loud w
 
 **The demo.** Show the thing working. Live over Zoom is best: hold it up, share your screen, run the code. **A pre-recorded video is completely acceptable** and is often the smarter choice: it removes the risk of a live failure, and you can shoot the detail that's hard to see on a webcam. Two minutes maximum, and it counts inside your six.
 
-**If it doesn't work, present it anyway.** A project that failed, where you can explain precisely what went wrong and what you'd change, scores well. A project that "works" with no evidence and no numbers does not. This is not a bluff. Look at the rubric.
+**If it doesn't work, present it anyway.** A project that failed, where you can explain precisely what went wrong and what you'd change, scores well. A project that "works" with no evidence and no numbers does not. See the rubric.
 
 **Slides.** Use them. Everything you learned about figures applies here. Upload them before your slot.
 

@@ -7,7 +7,7 @@ layout: default
 
 **We do this live in class.** You'll be in a small breakout room for about 35 minutes. I'll tell you the exact time in class.
 
-Your group has a customer. The customer has told you what they want, and what they've told you is useless.
+Your group has a customer. The customer has told you what they want, but not in a form you can design from.
 
 **Your room's request, by room number:**
 
@@ -20,7 +20,7 @@ Your group has a customer. The customer has told you what they want, and what th
 Work through four things:
 
 1. **Who is the customer, specifically?** Not "people." A named, described person or group with a situation. Different customers produce completely different products
-2. **Write three constraints.** Pass/fail. **Each one needs a number and a unit.** If you can't put a number on it, it isn't a constraint yet, and figuring out what the number should be is the work
+2. **Write three constraints.** Pass/fail. **Each one needs a number and a unit.** If you can't put a number on it, it isn't a constraint yet; finding the number is part of the job
 3. **Write three criteria**, ranked. These are how you'd choose between designs that all pass the constraints
 4. **Name one thing you'd need to go find out** before designing anything, and say how you'd find it. Measure something? Ask someone? Look up a standard?
 
