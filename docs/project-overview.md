@@ -18,7 +18,11 @@ Each page has the full instructions and the rubric.
 
 **What counts as a project**
 
-Something you design and build yourself that meets a need you can name, with a result you can measure. It does not have to be electrical or complicated. It has to be yours, and it has to be finishable this term alongside your other classes.
+A working prototype that solves a problem for a person you can name, designed and built by you, with a result you can measure. It has to go through the design process: a stated need, specifications with numbers, alternatives you considered, a choice, a build, and a test.
+
+Assembling a kit or following a tutorial step by step does not count. Kits and tutorials are fine as a starting point if you change or add something to meet your need, and you can say what you changed and why.
+
+It does not have to be electrical or complicated. It has to be finishable this term alongside your other classes.
 
 The project is individual. You may get help, buy parts, and use tutorials; the design decisions and the build are yours.
 
