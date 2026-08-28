@@ -68,9 +68,9 @@ Instructor: Dr. Scher
 
 ## Files
 
-- [Decision matrix template](files/decision-matrix.xlsx), a spreadsheet
+- [Decision matrix template](files/decision-matrix.xlsx), a spreadsheet for In-Class Work 3 and the project proposal
 - [Crude oil production data](files/crude-oil-production.xlsx), for In-Class Work 5
-- [Unit conversions practice](files/unit-conversions-practice.pdf), ungraded, and its [solutions](files/unit-conversions-practice-solutions.pdf)
+- [Unit conversions practice](files/unit-conversions-practice.pdf), ungraded practice problems to go with the unit conversions lecture, and its [solutions](files/unit-conversions-practice-solutions.pdf)
 
 ## Reading
 
