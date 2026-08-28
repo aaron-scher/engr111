@@ -25,7 +25,7 @@ One PDF, organized in the three sections below, with the parts labeled as shown 
 
 2a. Convert your mean to the other unit system: SI if you measured in US customary units, US customary if you measured in SI. Show the conversion, then one sentence on whether the number is sane.
 
-**3. Plot.** Any tool.
+**3. Plot.** Any tool, but say which one and how you made each figure.
 
 3a. Figure 1: your ten readings, in a chart that shows the spread honestly.
 
