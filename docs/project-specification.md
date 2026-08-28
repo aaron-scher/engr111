@@ -7,7 +7,7 @@ layout: default
 
 This is a different document from your proposal.
 
-Your **proposal** was written before you built anything, addressed to me, arguing that your plan was sound. Your **final report** is written after, addressed to a customer who is receiving a finished product. It describes rather than argues. Write it the way a product datasheet is written: what it is, what's in it, how it works, how it was tested.
+Your [**proposal**](project-proposal.html) was written before you built anything, addressed to me, arguing that your plan was sound. Your **final report** is written after, addressed to a customer who is receiving a finished product. It describes rather than argues. Write it the way a product datasheet is written: what it is, what's in it, how it works, how it was tested.
 
 Imagine handing your project to someone who has to build, use, and maintain it without ever talking to you. Write what they need.
 
