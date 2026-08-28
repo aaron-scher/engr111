@@ -5,7 +5,7 @@ layout: default
 
 # ENGR-111: Introduction to Engineering
 
-Instructor: Dr. Aaron Scher
+Instructor: Dr. Scher
 
 [Syllabus, Fall 2026](syllabus.html)
 
