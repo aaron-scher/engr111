@@ -24,7 +24,7 @@ Cover all five:
 
 **Include at least one technical diagram**, made with software (PowerPoint, Google Slides, draw.io, Tinkercad, a CAD program, whatever you have), not a hand sketch: a block diagram, a circuit schematic, a flow chart, a timing diagram, a dimensioned drawing, or a CAD view.
 
-Two to four pages. Submit one PDF. Here is a [sample proposal](files/sample-proposal.pdf) from a previous student.
+Two to four pages. Submit one PDF.
 
 **How it's graded**
 
