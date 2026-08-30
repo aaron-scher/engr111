@@ -5,15 +5,14 @@ layout: default
 
 # Conversation 2: Informational Interview
 
-Have a twenty-minute conversation with someone who does technical work for a living. Not a student. Someone doing the job.
+Have a twenty-minute conversation with someone who does technical work for a living, in industry or at a research institution. Not a student, not an instructor. Someone doing the job.
 
-This is not a job interview. You are gathering information. Finding the person is part of the assignment.
+The point is to find out what the work is actually like from a person who does it, before you spend years getting there. This is not a job interview. You are gathering information. Finding the person is part of the assignment.
 
 **Who counts:**
 
 - Any working engineer, in any discipline, **anywhere in the world**. There is no reason this person has to be in Oregon, or in the United States
 - Engineering-adjacent technical work counts too: a technician, machinist, surveyor, architect, software developer, construction manager, lab manager, industrial designer
-- A CCC instructor who teaches in the field you're curious about
 
 **Where to find one, roughly in order of how well it works:**
 
@@ -24,13 +23,10 @@ This is not a job interview. You are gathering information. Finding the person i
    > *Hi ____, I'm a first-year engineering student at Clackamas Community College. I'm trying to work out whether civil engineering is the right path for me, and I'd rather ask someone doing the job than read another article about it. Could I ask you five questions, twenty minutes, whenever suits you? Happy to work around your schedule.*
 
    Send ten of these. You need one yes
-4. **A CCC instructor.** This one is guaranteed. Every instructor here who teaches in a technical field has an engineering or science background and a job you could ask about. Email one and ask for twenty minutes. **If everything else fails, this is your answer**, and it counts fully
-
-**What I will and won't do.** I'll look over your outreach message before you send it, and I'll help you think about who to approach. Ask me. I won't hand you a contact; finding the person is part of the assignment.
 
 **What to submit**
 
-- Who you talked to, their job title, their employer, and how you found them
+- Who you talked to, their job title, their employer, how you found them, and their contact information (an email, phone number, or LinkedIn profile is fine)
 - At least five questions you asked, with their answers written underneath. Bullet points are fine
 - Three or four sentences at the end: what surprised you? Did this make the field more or less appealing?
 
@@ -39,8 +35,6 @@ Use questions from the list below if you like, but write at least two of your ow
 **Send a thank-you note afterward.** Email is fine. You may need this person again.
 
 **Start now.** People take a week or two to reply, and the conversation has to happen before the due date.
-
-**If you don't know anybody**, that is the normal starting position. Work down the list: ask around, email a society outreach chair, send ten LinkedIn messages, and if all of that comes up empty, email a CCC instructor.
 
 Type it into the Moodle submission box.
 
