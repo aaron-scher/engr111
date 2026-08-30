@@ -5,7 +5,7 @@ layout: default
 
 # Project: Presentation and Demo
 
-You will present the project you [proposed](project-proposal.html) to the class, live over Zoom. You have six minutes, then two minutes of questions. Practice it out loud with a timer.
+You will present your finished project to the class, live over Zoom: the thing you built, working, and how it measured up to what you [proposed](project-proposal.html). You have six minutes, then two minutes of questions. Practice it out loud with a timer.
 
 **Cover, in roughly this order**
 
