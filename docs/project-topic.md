@@ -5,11 +5,12 @@ layout: default
 
 # Project: Topic
 
-A paragraph or two, and it's not binding. Tell me:
+A paragraph or two, and it's not binding. Ballpark answers are fine. Tell me:
 
-- What you're thinking about building
-- What problem it solves, or what need it meets
-- Roughly what it's made of and roughly what it costs
+- What you're thinking about building, and what problem it solves or need it meets
+- Roughly what it's made of, and a rough budget
+- Whether you've built, wired, coded, or made anything like it before
+- How many hours you think it will take, start to finish
 
 If you have two ideas and can't choose, describe both and say which way you're leaning.
 
