@@ -70,7 +70,7 @@ Instructor: Dr. Scher
 
 - [Decision matrix template](files/decision-matrix.xlsx), a spreadsheet for In-Class Work 3 and the project proposal
 - [Crude oil production data](files/crude-oil-production.xlsx), for In-Class Work 5
-- Samples from previous students: a [final report](files/sample-final-report.pdf) and two final papers ([1](files/sample-final-paper-1.pdf), [2](files/sample-final-paper-2.pdf))
+- Samples from previous students: two final papers ([1](files/sample-final-paper-1.pdf), [2](files/sample-final-paper-2.pdf))
 - [Unit conversions practice](files/unit-conversions-practice.pdf), ungraded practice problems to go with Lecture 9, Unit Conversions and Dimensional Analysis, and its [solutions](files/unit-conversions-practice-solutions.pdf)
 
 ## Reading
