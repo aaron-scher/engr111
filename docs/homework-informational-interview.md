@@ -28,7 +28,7 @@ The point is to find out what the work is actually like from a person who does i
 
 - Who you talked to, their job title, their employer, how you found them, and their contact information (an email, phone number, or LinkedIn profile is fine)
 - At least five questions you asked, with their answers written underneath. Bullet points are fine
-- Three or four sentences at the end: what surprised you? Did this make the field more or less appealing?
+- Three or four sentences at the end: what did you learn? What surprised you? Did this make the field more or less appealing?
 
 Use questions from the list below if you like, but write at least two of your own.
 
