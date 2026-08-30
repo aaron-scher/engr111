@@ -39,13 +39,16 @@ Instructor: Dr. Scher
 - [In-Class Work 8: Project Presentation Dry Run](class-work-presentation-dry-run.html)
 - [Peer Resume Review (ungraded)](breakout-peer-resume-review.html)
 
-## Project and final paper
+## Project
 
 - [The project](project-overview.html)
 - [Project: Topic](project-topic.html)
 - [Project: Proposal](project-proposal.html)
 - [Project: Presentation and Demo](project-presentation-and-demo.html)
 - [Project: Final Report](project-specification.html)
+
+## Final paper
+
 - [Final Paper: Design Your Process](final-paper.html)
 
 ## Lectures
