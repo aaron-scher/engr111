@@ -28,12 +28,12 @@ The project is individual. You may get help and buy parts; the design decisions 
 
 **Examples from previous terms** (to show the range, not to pick from):
 
-- A wind-powered generator; a small hydropower generator; a thermoelectric phone charger; a solar water pump
-- A ski or snowboard brake; a trebuchet; a self-erecting tent; a body harness built from old climbing gear
-- An audio filter; a coin counter; automatic windshield wipers driven by a humidity sensor; a garden irrigation controller
-- A sous vide cooker; a thumb guard for hammering; a needle-threading aid for people with shaky hands; a cookbook stand for one specific kitchen
-- A water filter from natural materials; a plan to rehabilitate a pond overrun by algae; a set of small bridges built and tested to failure
-- A custom workbench; a 3D-printed drone case; a secret latch for a backyard gate; a baby stroller for trails
+- **Energy:** a wind-powered generator; a small hydropower generator; a thermoelectric phone charger; a solar water pump
+- **Mechanical and outdoor gear:** a ski or snowboard brake; a trebuchet; a self-erecting tent; a body harness built from old climbing gear
+- **Electronics and control:** an audio filter; a coin counter; automatic windshield wipers driven by a humidity sensor; a garden irrigation controller
+- **Household and assistive:** a sous vide cooker; a thumb guard for hammering; a needle-threading aid for people with shaky hands; a cookbook stand for one specific kitchen
+- **Civil and environmental:** a water filter from natural materials; a plan to rehabilitate a pond overrun by algae; a set of small bridges built and tested to failure
+- **Fabrication:** a custom workbench; a 3D-printed drone case; a secret latch for a backyard gate; a baby stroller for trails
 
 Many of these are ordinary. Small things done properly, with real measurements, score better than ambitious things half-finished.
 
