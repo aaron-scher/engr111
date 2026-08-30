@@ -11,6 +11,6 @@ Meet with an academic adviser and leave with a term-by-term plan that gets you t
 
 Bring your unofficial transcript. The point of the meeting is to come out knowing what to take next term and the term after, which math and physics sequence you're on, and what your target school needs for admission into the engineering major.
 
-**Submit:** who you met and when, the plan you built together with course numbers and terms on it, and a few paragraphs: what you learned from the meeting, whether it was worthwhile, and what your next steps are. Type it into the Moodle submission box. A photo or screenshot of the plan is fine, pasted in as an image or attached as a file.
+**Submit:** who you met and when, the plan you built together with course numbers and terms on it, and a few paragraphs: what you learned from the meeting, whether it was worthwhile, and what your next steps are. Type the paragraphs into the Moodle submission box. For the plan itself, a photo or screenshot is fine, pasted into the box as an image or attached as a file.
 
 **Grading.** No meeting, no credit. Otherwise, grading and the AI policy are in the syllabus.
