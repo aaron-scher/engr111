@@ -7,9 +7,9 @@ layout: default
 
 This is a different document from your proposal.
 
-Your [**proposal**](project-proposal.html) was written before you built anything, addressed to me, to get the project approved. Your **final report** is written after, for a customer who is receiving the finished product: what it is, what's in it, how it works, and how you know it works.
+Your [**proposal**](project-proposal.html) was written before you built anything, addressed to me, to get the project approved. Your **final report** is written after, for a different reader: an engineering student who is interested in your project and wants to build one.
 
-Imagine handing your project to someone who has to build, use, and maintain it without ever talking to you. Write what they need.
+Imagine handing your project to someone who has to build, use, and maintain it without ever talking to you. Write what they need: what it is, what's in it, how it works, and how you know it works.
 
 **Include all of these**
 
