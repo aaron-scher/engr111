@@ -9,10 +9,8 @@ You will present your finished project to the class, live over Zoom: the thing y
 
 **Cover, in roughly this order**
 
-- The problem and who has it
-- Your constraints and criteria
-- The alternatives you considered and why you chose the one you built
-- What you actually built. Show it. Say what changed from your proposal, and why
+- The problem and who has it. Keep it short
+- What you built. Show it. Say what changed from your proposal, and why
 - Your test results, with numbers
 - What you'd do differently
 
@@ -26,9 +24,9 @@ You will present your finished project to the class, live over Zoom: the thing y
 
 | Criterion | Full | Most | Some | Little |
 |:----------------------------|:----------------------|:-------------------|:-------------------|:----------------|
-| **Problem, constraints, criteria, alternatives, and why this one** (30) | A specific need and customer, numbers on the constraints, the alternatives named, and the choice explained | Most of that; one piece thin | Problem vague, or constraints or alternatives missing | Went straight to "here's what I built" |
-| **What was built, shown** (30) | The thing is shown working, live or on video, and it is what the proposal described or the change is explained | The thing is shown and doesn't fully work, and the presenter says why | Shown but not demonstrated; or works with no evidence | Nothing shown |
-| **Test results, with numbers** (25) | Measurements against the criteria from the proposal, with units and uncertainty where it matters | Measurements, loosely tied to the criteria | "It works" with one number | No results |
-| **Figures and slides** (20) | Legible, labeled, units on axes, readable in grayscale, no chart junk | Mostly; one figure weak | Figures hard to read or unlabeled | No figures, or slides of paragraphs |
+| **The problem and who has it** (20) | A specific need and a specific customer, stated in under a minute | Clear need, customer vague | A topic rather than a problem | Not stated |
+| **What was built, shown** (40) | The thing is shown working, live or on video, and it is what the proposal described or the change is explained | The thing is shown and doesn't fully work, and the presenter says why | Shown but not demonstrated; or works with no evidence | Nothing shown |
+| **Test results, with numbers** (30) | Measurements against the criteria from the proposal, with units and uncertainty where it matters | Measurements, loosely tied to the criteria | "It works" with one number | No results |
+| **Figures and slides** (15) | Legible, labeled, units on axes, readable in grayscale, no chart junk | Mostly; one figure weak | Figures hard to read or unlabeled | No figures, or slides of paragraphs |
 | **Delivery** (10) | Within six minutes, clear, answers questions directly | Slightly over, or one question dodged | Well over time or hard to follow | Read from notes throughout, or cut off |
 | **What you'd do differently** (10) | A specific change with a reason | A general one | "Start earlier" | Skipped |
