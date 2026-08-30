@@ -52,7 +52,7 @@ Then, if there is something not on this list that matters for your success, add 
 
 | Criterion | Full | Most | Some | Little |
 |:----------------------------|:----------------------|:-------------------|:-------------------|:----------------|
-| **Every item, all three parts** (50) | All 13 items, each with world-class, where you are, and what you'll do | One or two items thin or missing a part | Several items skipped or reduced to one sentence | Most items missing |
-| **Plan quality** (25) | The "what you'll do" parts are specific: an action, a time, something you could check off next term | Specific in most places; some "I will try harder" | Mostly general intentions | No real plan |
-| **Grounded in your own term** (15) | Draws on your homework, your adviser meeting, real classes and real habits | Some of that; some generic | Could have been written by anyone | Not about you |
-| **Length, format, readability** (10) | Meets the length and format, reads clearly | Slightly short or hard to follow in places | Well short, or hard to follow throughout | Both |
+| **Every item, all three parts** (50) | All 13 items, each with all three parts | One or two items thin or missing a part | Several items skipped or reduced to a sentence | Most items missing |
+| **Plan quality** (25) | Each "what you'll do" is specific: an action and when | Specific in most places | General intentions | No plan |
+| **About you** (15) | Draws on your homework, your adviser meeting, your real classes and habits | Partly generic | Could have been written by anyone | Not about you |
+| **Length, format, readability** (10) | Meets the length and format, reads clearly | Slightly short or unclear in places | Well short, or hard to follow | Both |
