@@ -18,7 +18,7 @@ The point is to find out what the work is actually like from a person who does i
 
 1. **People already in your life.** A parent, a neighbor, a former boss, a friend's parent, someone from your old job. Ask around before you do anything else
 2. **Professional and technical societies.** Their outreach people are used to hearing from students. ASCE Portland Younger Member Forum runs student outreach year-round, including over Zoom. IEEE Oregon Section, ASME, AIChE, and the Society of Women Engineers all have Portland-area chapters with outreach or student contacts listed on their websites. Find the outreach chair, email them, say you're an ENGR-111 student who needs twenty minutes
-3. **LinkedIn.** Search a company and a job title, then send something short and specific:
+3. **Cold messages on LinkedIn.** Strangers, not people you know. Search a company and a job title, then send something short and specific:
 
    > *Hi ____, I'm a first-year engineering student at Clackamas Community College. I'm trying to work out whether civil engineering is the right path for me, and I'd rather ask someone doing the job than read another article about it. Could I ask you five questions, twenty minutes, whenever suits you? Happy to work around your schedule.*
 
