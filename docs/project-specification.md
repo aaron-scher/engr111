@@ -7,7 +7,7 @@ layout: default
 
 This is a different document from your proposal.
 
-Your [**proposal**](project-proposal.html) was written before you built anything, addressed to me, arguing that your plan was sound. Your **final report** is written after, addressed to a customer who is receiving a finished product. It describes rather than argues. Write it the way a product datasheet is written: what it is, what's in it, how it works, how it was tested.
+Your [**proposal**](project-proposal.html) was written before you built anything, addressed to me, to get the project approved. Your **final report** is written after, for a customer who is receiving the finished product: what it is, what's in it, how it works, and how you know it works.
 
 Imagine handing your project to someone who has to build, use, and maintain it without ever talking to you. Write what they need.
 
@@ -23,7 +23,7 @@ Imagine handing your project to someone who has to build, use, and maintain it w
 
 **Visual communication is a graded criterion here, not a bonus.** Include at least three of the following, and they must be legible and labeled: a dimensioned drawing, a block or flow diagram, a photograph of the finished object with a scale reference, a plot of your test data, a CAD view, or an annotated photograph. Drawings and diagrams are made with software, not sketched by hand. A report with no figures will not score well.
 
-Here is a [sample report](files/sample-final-report.pdf) from a previous student. Look at how much of it is lists and numbers rather than prose. It has no figures, and yours must; it was written before that was a requirement.
+Here is a [sample report](files/sample-final-report.pdf) from a previous student. It has no figures, and yours must; it was written before that was a requirement.
 
 Minimum two pages of text, plus figures. Submit one PDF.
 
