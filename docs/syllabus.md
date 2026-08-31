@@ -38,6 +38,8 @@ Landis, Peuker, and Mott, *Studying Engineering: A Road Map to a Rewarding Caree
 
 Monday is a lecture. Wednesday is a short lecture and then in-class work in small breakout rooms, posted to a Moodle forum by one person per group. Cameras are encouraged, especially in breakout rooms; if yours is off, please put a photo on your Zoom profile so the tile isn't blank.
 
+**No recording.** I don't record sessions: I ask questions during the lecture and the real work happens in the breakout rooms, and neither works well when people know they're being recorded. Don't record the class yourself without asking me first; if you have a DRC accommodation that involves recording, you don't need to ask.
+
 The project runs the whole term, on a topic you choose. It is the largest part of your grade. See [The Project](project-overview.html).
 
 ## Grading
