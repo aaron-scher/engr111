@@ -47,4 +47,4 @@ Each figure gets a caption of one or two sentences: what it shows, and why that 
 
 Submit one PDF.
 
-Grading and the AI policy are in the syllabus.
+Grading and the AI policy are in the [syllabus](syllabus.html).

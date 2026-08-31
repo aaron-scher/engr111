@@ -12,4 +12,4 @@ Between 300 and 500 words. Do the ethics reading first, then answer both:
 
 Type your answer into the Moodle submission box.
 
-Grading and the AI policy are in the syllabus.
+Grading and the AI policy are in the [syllabus](syllabus.html).

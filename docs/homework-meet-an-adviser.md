@@ -13,4 +13,4 @@ Bring your unofficial transcript. The point of the meeting is to come out knowin
 
 **Submit:** who you met and when, the plan you built together with course numbers and terms on it, and a few paragraphs: what you learned from the meeting, whether it was worthwhile, and what your next steps are. Type the paragraphs into the Moodle submission box. For the plan itself, a photo or screenshot is fine, pasted into the box as an image or attached as a file.
 
-**Grading.** No meeting, no credit. Otherwise, grading and the AI policy are in the syllabus.
+**Grading.** No meeting, no credit. Otherwise, grading and the AI policy are in the [syllabus](syllabus.html).

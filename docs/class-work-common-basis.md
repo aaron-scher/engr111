@@ -24,4 +24,4 @@ In your room:
 - One sentence on why you picked what you picked
 - One sentence on what's missing from the data
 
-**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the syllabus. Step 4 is worth as much to me as the arithmetic.
+**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the [syllabus](syllabus.html). Step 4 is worth as much to me as the arithmetic.

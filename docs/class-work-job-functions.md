@@ -22,4 +22,4 @@ In your room:
 - Your four job functions, one line each: the function, then the task it owns
 - For each person, starting with their name: the function they'd want, the one they'd avoid, and the one step
 
-**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the syllabus.
+**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the [syllabus](syllabus.html).

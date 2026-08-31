@@ -18,4 +18,4 @@ You can change your topic later. I will reply with feedback; use it when you wri
 
 Type it into the Moodle submission box. A diagram or photo is welcome but not required; attach it as a file.
 
-**Grading.** Full credit for a real topic, on time. Otherwise, grading and the AI policy are in the syllabus.
+**Grading.** Full credit for a real topic, on time. Otherwise, grading and the AI policy are in the [syllabus](syllabus.html).

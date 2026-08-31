@@ -22,4 +22,4 @@ No general praise. Name something specific for both.
 - First line: everyone's full names
 - For each person, starting with their name: the one thing that was clear and the one thing that wasn't
 
-**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the syllabus. A post that says everything was clear for everyone will not get credit.
+**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the [syllabus](syllabus.html). A post that says everything was clear for everyone will not get credit.

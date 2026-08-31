@@ -19,4 +19,4 @@ Each person gets about eight minutes:
 - First line: everyone's full names
 - For each person, starting with their name: the project in one sentence, the biggest risk the group agreed on, and what to do about it
 
-**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the syllabus. Specific to this one: the risk has to be specific. "Running out of time" is not a risk; the reason they would run out of time is.
+**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the [syllabus](syllabus.html). Specific to this one: the risk has to be specific. "Running out of time" is not a risk; the reason they would run out of time is.

@@ -46,4 +46,4 @@ Then answer: is the winner the design you would build? If not, is a weight wrong
 - The matrix: criteria with weights, scores 1 to 5, and totals. Paste it in as a table, or attach a screenshot or photo of your spreadsheet
 - Did the matrix pick the design you actually wanted? If not, what did you do about it? A few sentences
 
-**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the syllabus. Specific to this one: a specification without a number does not count, and three designs that fail the same way count as one. I read the last item most closely.
+**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the [syllabus](syllabus.html). Specific to this one: a specification without a number does not count, and three designs that fail the same way count as one. I read the last item most closely.

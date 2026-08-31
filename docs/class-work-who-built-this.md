@@ -28,4 +28,4 @@ Question 2 has no right answer. Argue about it. Pick one and commit.
 - First line of the post: everyone's full names, separated by commas
 - Then your two answers
 
-**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the syllabus.
+**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the [syllabus](syllabus.html).

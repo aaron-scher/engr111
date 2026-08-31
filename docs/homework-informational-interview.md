@@ -38,7 +38,7 @@ Use questions from the list below if you like, but write at least two of your ow
 
 Type it into the Moodle submission box.
 
-**Grading.** No conversation, no credit. Otherwise, grading and the AI policy are in the syllabus.
+**Grading.** No conversation, no credit. Otherwise, grading and the AI policy are in the [syllabus](syllabus.html).
 
 **Questions you could ask**
 

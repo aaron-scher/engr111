@@ -16,4 +16,4 @@ Short assignment. Answer all six in a few sentences each. This tells me who is i
 
 Type your answers into the Moodle submission box, numbered to match.
 
-Grading and the AI policy are in the syllabus.
+Grading and the AI policy are in the [syllabus](syllabus.html).
