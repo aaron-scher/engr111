@@ -106,6 +106,7 @@ Anything beyond that is covered by CCC's Student Code of Conduct, which defines 
 ## Important dates
 
 - Monday, September 28: first session
+- Sunday, October 11: last day to drop with a refund
 - Wednesday, November 11: college closed, no session
 - Friday, November 20: last day to drop with a W
 - Thursday and Friday, November 26 and 27: college closed. **Wednesday, November 25 is a normal session**
@@ -115,15 +116,16 @@ Anything beyond that is covered by CCC's Student Code of Conduct, which defines 
 
 ## Schedule
 
-Lectures are numbered by session; the Wednesdays without a lecture are in-class work only. Assignments are due at 11:59 PM Pacific on the day shown; in-class work is posted by the end of its session. Half the class presents on December 2 and half on December 9; the groups are assigned in Moodle.
+Lectures are numbered by session; the Wednesdays without a lecture are in-class work only. Assignments are due at 11:59 PM Pacific on the day shown. Post your in-class work before the session ends; the forum stays open until 11:59 PM that night in case your room runs long. Half the class presents on December 2 and half on December 9; the groups are assigned in Moodle.
 
 | Date | Lecture | In class | Due |
 |:--|:--|:--|:--|
 | Mon Sep 28 | [1 · What Is Engineering?](lectures/lecture-01-what-is-engineering.pdf) |  |  |
-| Wed Sep 30 | [2 · The Engineering Disciplines](lectures/lecture-02-the-engineering-disciplines.pdf) | [In-Class Work 1: Who Built This?](class-work-who-built-this.html) · [the project is introduced](project-overview.html) | [Homework 1](homework-about-you.html), before the session |
-| Fri Oct 2 |  |  | [Homework 2](homework-career-numbers.html) · [Homework 3](reflection-which-engineering.html) |
+| Wed Sep 30 | [2 · The Engineering Disciplines](lectures/lecture-02-the-engineering-disciplines.pdf) | [In-Class Work 1: Who Built This?](class-work-who-built-this.html) · [the project is introduced](project-overview.html) |  |
+| Fri Oct 2 |  |  | [Homework 1](homework-about-you.html) · [Homework 2](homework-career-numbers.html) |
 | Mon Oct 5 | [3 · The Engineering Design Process](lectures/lecture-03-the-engineering-design-process.pdf) |  |  |
 | Wed Oct 7 | [4 · Defining the Problem](lectures/lecture-04-defining-the-problem.pdf) | [In-Class Work 2: From a Vague Wish to a Real Specification](class-work-vague-wish-to-specification.html) |  |
+| Fri Oct 9 |  |  | [Homework 3](reflection-which-engineering.html) |
 | Mon Oct 12 | [5 · Criteria, Constraints, and Decision Matrices](lectures/lecture-05-criteria-constraints-and-decision-matrices.pdf) |  | [Project: Topic](project-topic.html) · [Conversation 1](homework-meet-an-adviser.html) opens |
 | Wed Oct 14 | [6 · Keys to Success in Engineering Study](lectures/lecture-06-keys-to-success-in-engineering-study.pdf) | [In-Class Work 3: Decision Matrix](class-work-decision-matrix.html) |  |
 | Fri Oct 16 |  |  | [Homework 4](reflection-keys-to-success.html) |
