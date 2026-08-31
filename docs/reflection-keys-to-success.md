@@ -5,7 +5,7 @@ layout: default
 
 # Homework 4: Keys to Success
 
-Between 300 and 500 words. Answer both:
+Between 300 and 500 words. Do the assigned reading first (see the [reading list](reading-list.html)), then answer both:
 
 - What is your academic goal? Which degree, at which school, by when? If you don't know yet, say what you'd need to find out in order to decide
 - Chapter 1 and Felder both describe the behaviors of successful engineering students. Name one you're already doing well and one you're not. For the one you're not, what specifically will you do differently, starting now?
