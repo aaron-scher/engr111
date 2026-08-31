@@ -123,13 +123,13 @@ Lectures are numbered by session; the Wednesdays without a lecture are in-class 
 | Mon Sep 28 | [1 · What Is Engineering?](lectures/lecture-01-what-is-engineering.pdf) |  |  |
 | Wed Sep 30 | [2 · The Engineering Disciplines](lectures/lecture-02-the-engineering-disciplines.pdf) | [In-Class Work 1: Who Built This?](class-work-who-built-this.html) · [the project is introduced](project-overview.html) |  |
 | Fri Oct 2 |  |  | [Homework 1](homework-about-you.html) · [Homework 2](homework-career-numbers.html) |
-| Mon Oct 5 | [3 · The Engineering Design Process](lectures/lecture-03-the-engineering-design-process.pdf) |  |  |
+| Mon Oct 5 | [3 · The Engineering Design Process](lectures/lecture-03-the-engineering-design-process.pdf) |  | [Conversation 1](homework-meet-an-adviser.html) · [Conversation 2](homework-informational-interview.html) open |
 | Wed Oct 7 | [4 · Defining the Problem](lectures/lecture-04-defining-the-problem.pdf) | [In-Class Work 2: From a Vague Wish to a Real Specification](class-work-vague-wish-to-specification.html) |  |
 | Fri Oct 9 |  |  | [Homework 3](reflection-which-engineering.html) |
-| Mon Oct 12 | [5 · Criteria, Constraints, and Decision Matrices](lectures/lecture-05-criteria-constraints-and-decision-matrices.pdf) |  | [Project: Topic](project-topic.html) · [Conversation 1](homework-meet-an-adviser.html) opens |
+| Mon Oct 12 | [5 · Criteria, Constraints, and Decision Matrices](lectures/lecture-05-criteria-constraints-and-decision-matrices.pdf) |  | [Project: Topic](project-topic.html) |
 | Wed Oct 14 | [6 · Keys to Success in Engineering Study](lectures/lecture-06-keys-to-success-in-engineering-study.pdf) | [In-Class Work 3: Decision Matrix](class-work-decision-matrix.html) |  |
 | Fri Oct 16 |  |  | [Homework 4](reflection-keys-to-success.html) |
-| Mon Oct 19 | [7 · How People Learn](lectures/lecture-07-how-people-learn.pdf) |  | [Conversation 2](homework-informational-interview.html) opens |
+| Mon Oct 19 | [7 · How People Learn](lectures/lecture-07-how-people-learn.pdf) |  |  |
 | Wed Oct 21 | [8 · Job Functions and the Technology Team](lectures/lecture-08-job-functions-and-the-technology-team.pdf) | [In-Class Work 4: Job Functions](class-work-job-functions.html) · open half hour |  |
 | Fri Oct 23 |  |  | [Homework 5](reflection-how-you-learn.html) |
 | Mon Oct 26 | [9 · Unit Conversions and Dimensional Analysis](lectures/lecture-09-unit-conversions-and-dimensional-analysis.pdf) |  | [Project: Proposal](project-proposal.html) |
