@@ -140,7 +140,7 @@ Lectures are numbered by session; the Wednesdays without a lecture are in-class 
 | Wed Nov 11 | College closed |  |  |
 | Fri Nov 13 |  |  | [Homework 6](reflection-ethics.html) |
 | Mon Nov 16 | [14 · Estimation, Measurement, and Error](lectures/lecture-14-estimation-measurement-and-error.pdf) |  | [Conversation 1](homework-meet-an-adviser.html) · [Measure and Plot Assignment 1](homework-measure-convert-plot.html) opens |
-| Wed Nov 18 | none | [In-Class Work 7: Project Build Status and Risk](class-work-build-status.html) · open half hour |  |
+| Wed Nov 18 | none | [In-Class Work 7: Project Build Status and Risk](class-work-build-status.html) · open half hour | [Project: Final Report](project-specification.html) opens |
 | Fri Nov 20 |  |  | [Final paper: Design Your Process](final-paper.html) |
 | Mon Nov 23 | [16 · Presenting Technical Information](lectures/lecture-16-presenting-technical-information.pdf) |  |  |
 | Wed Nov 25 | none | [In-Class Work 8: Project Presentation Dry Run](class-work-presentation-dry-run.html) · open half hour |  |
