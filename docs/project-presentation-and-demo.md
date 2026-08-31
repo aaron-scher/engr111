@@ -29,3 +29,5 @@ You will present your finished project to the class, live over Zoom: the thing y
 | **Test results and what you'd do differently** (35) | Measurements against the criteria from the proposal, with units and uncertainty where it matters, and a specific change with a reason | Measurements loosely tied to the criteria, or the change is a general one | "It works" with one number, or "start earlier" | No results |
 | **Diagrams and figures** (20) | A diagram of how it works and a plot or table of the results, both legible, labeled, units on axes, readable in grayscale, no chart junk | Both present; one weak | One of the two missing, or figures hard to read or unlabeled | No diagram and no figures, or slides of paragraphs |
 | **Delivery and clarity** (20) | Within six minutes, clear and easy to follow, speaks to the audience rather than reading, answers questions directly | Slightly over, or one question dodged | Well over time or hard to follow | Read from notes throughout, or cut off |
+
+Grading and the AI policy are in the [syllabus](syllabus.html).

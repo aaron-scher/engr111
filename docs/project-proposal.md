@@ -39,3 +39,5 @@ Two to four pages. Submit one PDF.
 | **Test plan** (20) | A measurement for each main requirement, a number that counts as passing, and the tool that will produce it | Measurements named, pass numbers missing | "I'll see if it works" | No test plan |
 | **Technical diagram** (10) | At least one of the types listed above, made with software, legible, labeled, and specific to this design | Present and legible, but generic or adds little | Hand sketch, or hard to read or unlabeled | None |
 | **Budget and schedule** (10) | Main parts priced, a total, and the main steps with rough dates | Most of that, one piece thin | A total with no breakdown, or dates with no steps | Missing |
+
+Grading and the AI policy are in the [syllabus](syllabus.html).

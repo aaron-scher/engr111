@@ -7,7 +7,7 @@ layout: default
 
 Between 300 and 500 words. Do the assigned reading first (see the [reading list](reading-list.html)), then answer both:
 
-- Where do you fall on the learning dimensions in the reading? Active or reflective, sequential or global, visual or verbal? Give an example from an actual class you've taken that makes you think so
+- Where do you fall on the learning dimensions in the reading? Sensing or intuitive, visual or verbal, active or reflective, sequential or global? Give an example from an actual class you've taken that makes you think so
 - The reading describes specific things to do before, during, and after a lecture. Pick one you don't currently do. What would it take to start, and what's stopped you so far?
 
 Type your answer into the Moodle submission box.

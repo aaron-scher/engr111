@@ -35,3 +35,5 @@ Minimum two pages of text, plus figures. Submit one PDF.
 | **Status and future work** (10) | What works, what's missing, and what it would take to finish, all specific | Two of the three | Vague | Missing |
 | **What changed from the proposal, and why** (20) | Every deviation named, with the reason and what it cost or saved | Changes named, reasons thin | "Some things changed" | Missing, or claims nothing changed when it clearly did |
 | **Figures** (20) | Photograph, how-it-works diagram, and results plot or table, all legible and labeled | All three, one weak | One or two | None |
+
+Grading and the AI policy are in the [syllabus](syllabus.html).

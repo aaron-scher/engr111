@@ -56,3 +56,5 @@ Then, if there is something not on this list that matters for your success, add 
 | **Plan quality** (25) | Each "what you'll do" is specific: an action and when | Specific in most places | General intentions | No plan |
 | **About you** (15) | Draws on your homework, your adviser meeting, your real classes and habits | Partly generic | Could have been written by anyone | Not about you |
 | **Length, format, readability** (10) | Meets the length and format, reads clearly | Slightly short or unclear in places | Well short, or hard to follow | Both |
+
+Grading and the AI policy are in the [syllabus](syllabus.html).
