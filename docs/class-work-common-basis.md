@@ -19,9 +19,9 @@ In your room:
 **Each of you submits the group's answer.** Type it into the Moodle submission box:
 
 - First line: everyone's full names
-- Second line: the process you recommend
-- Your three revenue figures, with units, and the arithmetic for at least one of them so I can see how you handled the units
-- One sentence on why you picked what you picked
+- Second line: the process the group recommends
+- The group's three revenue figures, with units, and the arithmetic for at least one of them so I can see how the group handled the units
+- One sentence on why the group picked what it picked
 - One sentence on what's missing from the data
 
 **Grading.** Everyone in the group gets the same score. If you do not submit, you get no credit for that session. Grading and the AI policy are in the [syllabus](syllabus.html). Step 4 is worth as much to me as the arithmetic.

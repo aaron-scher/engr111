@@ -40,10 +40,10 @@ Then answer: is the winner the design you would build? If not, is a weight wrong
 
 - First line: everyone's full names
 - Second line: the design that won
-- Your specifications, one per line, each with a number and a unit
-- A description of each of your three designs
-- Anything you screened out, and which specification it failed
-- The matrix: criteria with weights, scores 1 to 5, and totals. Paste it in as a table, or attach a screenshot or photo of your spreadsheet
-- Did the matrix pick the design you actually wanted? If not, what did you do about it? A few sentences
+- The group's specifications, one per line, each with a number and a unit
+- A description of each of the group's three designs
+- Anything the group screened out, and which specification it failed
+- The matrix: criteria with weights, scores 1 to 5, and totals. Paste it in as a table, or attach a screenshot or photo of the group's spreadsheet
+- Did the matrix pick the design the group actually wanted? If not, what did the group do about it? A few sentences
 
 **Grading.** Everyone in the group gets the same score. If you do not submit, you get no credit for that session. Grading and the AI policy are in the [syllabus](syllabus.html). Specific to this one: a specification without a number does not count, and three designs that fail the same way count as one. I read the last item most closely.

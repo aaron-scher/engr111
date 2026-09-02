@@ -19,6 +19,6 @@ Each person gets about eight minutes:
 - First line: everyone's full names
 - Second line: your room number
 - For each person, starting with their name: what they showed, what is blocking them, and the group's suggestion
-- For anyone the group thinks will not finish in time: what you agreed to cut
+- For anyone the group thinks will not finish in time: what the group agreed to cut
 
 **Grading.** Everyone in the group gets the same score. If you do not submit, you get no credit for that session. Grading and the AI policy are in the [syllabus](syllabus.html). Specific to this one: step 4 is the point. An honest "this will not finish, cut this part" is worth more than a polite "looks good."

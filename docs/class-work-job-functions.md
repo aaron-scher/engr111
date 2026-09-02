@@ -18,8 +18,8 @@ In your room:
 **Each of you submits the group's answer.** Type it into the Moodle submission box:
 
 - First line: everyone's full names
-- Second line: the technology you picked
-- Your four job functions, one line each: the function, then the task it owns
+- Second line: the technology the group picked
+- The group's four job functions, one line each: the function, then the task it owns
 - For each person, starting with their name: the function they'd want, the one they'd avoid, and the one step
 
 **Grading.** Everyone in the group gets the same score. If you do not submit, you get no credit for that session. Grading and the AI policy are in the [syllabus](syllabus.html).

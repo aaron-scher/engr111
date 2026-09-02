@@ -26,6 +26,6 @@ Question 2 has no right answer. Argue about it. Pick one and commit.
 
 - First line: everyone's full names, separated by commas
 - Second line: your technology
-- Then your two answers
+- Then the group's two answers
 
 **Grading.** Everyone in the group gets the same score. If you do not submit, you get no credit for that session. Grading and the AI policy are in the [syllabus](syllabus.html).

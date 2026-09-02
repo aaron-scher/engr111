@@ -29,10 +29,10 @@ You will probably disagree about the numbers. That is normal. Deciding what the 
 **Each of you submits the group's answer.** Type it into the Moodle submission box:
 
 - First line: everyone's full names, separated by commas
-- Second line: your room number and who your customer turned out to be
-- Who your customer is, in one or two sentences
-- Your three constraints, one per line, each with a number and a unit
-- Your three criteria, one per line, ranked, most important first
-- The one thing you'd go find out, and how, in one or two sentences
+- Second line: your room number and who the group's customer turned out to be
+- Who the group's customer is, in one or two sentences
+- The group's three constraints, one per line, each with a number and a unit
+- The group's three criteria, one per line, ranked, most important first
+- The one thing the group would go find out, and how, in one or two sentences
 
 **Grading.** Everyone in the group gets the same score. If you do not submit, you get no credit for that session. Grading and the AI policy are in the [syllabus](syllabus.html). One thing specific to this one: a constraint without a number in it doesn't count as a constraint. "It should be affordable" is a wish; "$40 or less" is a constraint.
