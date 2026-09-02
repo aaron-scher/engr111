@@ -15,11 +15,11 @@ In your room:
 4. Each person says which function appeals to them most and which they'd hate. Then the group names one attribute each of those jobs demands
 5. Each person names one thing the job they want demands that they don't have yet, and one step they could take toward it
 
-**One person posts for the group** to the In-Class Work 4 forum:
+**Each of you submits the group's answer.** Type it into the Moodle submission box:
 
-- Subject line: the technology you picked
 - First line: everyone's full names
+- Second line: the technology you picked
 - Your four job functions, one line each: the function, then the task it owns
 - For each person, starting with their name: the function they'd want, the one they'd avoid, and the one step
 
-**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the [syllabus](syllabus.html).
+**Grading.** Everyone in the group gets the same score. If you do not submit, you get no credit for that session. Grading and the AI policy are in the [syllabus](syllabus.html).

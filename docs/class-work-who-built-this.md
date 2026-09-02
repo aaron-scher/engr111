@@ -22,10 +22,10 @@ Answer two questions:
 
 Question 2 has no right answer. Argue about it. Pick one and commit.
 
-**Before your group returns to the main room, one person posts your answer** to the In-Class Work 1 forum:
+**Before your group returns to the main room, each of you submits the group's answer.** Type it into the Moodle submission box:
 
-- Subject line: your technology
-- First line of the post: everyone's full names, separated by commas
+- First line: everyone's full names, separated by commas
+- Second line: your technology
 - Then your two answers
 
-**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the [syllabus](syllabus.html).
+**Grading.** Everyone in the group gets the same score. If you do not submit, you get no credit for that session. Grading and the AI policy are in the [syllabus](syllabus.html).

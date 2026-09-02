@@ -13,10 +13,10 @@ Each person gets about eight minutes:
 2. The group asks questions for about three minutes. For example: what happens if that part doesn't fit? How are you measuring that? What's your backup if the sensor doesn't arrive?
 3. The group agrees on **the single biggest risk to that project finishing on time**, and on what to do about it. One risk, not a list
 
-**One person posts for the group** to the In-Class Work 6 forum:
+**Each of you submits the group's answer.** Type it into the Moodle submission box:
 
-- Subject line: your room number
 - First line: everyone's full names
+- Second line: your room number
 - For each person, starting with their name: the project in one sentence, the biggest risk the group agreed on, and what to do about it
 
-**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the [syllabus](syllabus.html). Specific to this one: the risk has to be specific. "Running out of time" is not a risk; the reason they would run out of time is.
+**Grading.** Everyone in the group gets the same score. If you do not submit, you get no credit for that session. Grading and the AI policy are in the [syllabus](syllabus.html). Specific to this one: the risk has to be specific. "Running out of time" is not a risk; the reason they would run out of time is.

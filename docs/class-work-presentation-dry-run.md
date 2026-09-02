@@ -16,10 +16,10 @@ After each person, the group gives two things and only two:
 
 No general praise. Name something specific for both.
 
-**One person posts for the group** to the In-Class Work 8 forum:
+**Each of you submits the group's answer.** Type it into the Moodle submission box:
 
-- Subject line: your room number
 - First line: everyone's full names
+- Second line: your room number
 - For each person, starting with their name: the one thing that was clear and the one thing that wasn't
 
-**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the [syllabus](syllabus.html). A post that says everything was clear for everyone will not get credit.
+**Grading.** Everyone in the group gets the same score. If you do not submit, you get no credit for that session. Grading and the AI policy are in the [syllabus](syllabus.html). An answer that says everything was clear for everyone will not get credit.

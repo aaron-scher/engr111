@@ -16,12 +16,12 @@ In your room:
 3. Pick one and be able to say why
 4. Then name one thing you'd want to know that isn't in the table, and say how it might change your answer
 
-**One person posts for the group** to the In-Class Work 5 forum:
+**Each of you submits the group's answer.** Type it into the Moodle submission box:
 
-- Subject line: the process you recommend
 - First line: everyone's full names
+- Second line: the process you recommend
 - Your three revenue figures, with units, and the arithmetic for at least one of them so I can see how you handled the units
 - One sentence on why you picked what you picked
 - One sentence on what's missing from the data
 
-**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the [syllabus](syllabus.html). Step 4 is worth as much to me as the arithmetic.
+**Grading.** Everyone in the group gets the same score. If you do not submit, you get no credit for that session. Grading and the AI policy are in the [syllabus](syllabus.html). Step 4 is worth as much to me as the arithmetic.

@@ -5,7 +5,7 @@ layout: default
 
 # In-Class Work 3: Decision Matrix
 
-**We do this live in class.** Small breakout rooms, about 30 minutes. I'll tell you the exact time in class. A [spreadsheet template](files/decision-matrix.xlsx) for the matrix is here; use it, or any spreadsheet, or a table typed into the post.
+**We do this live in class.** Small breakout rooms, about 30 minutes. I'll tell you the exact time in class. A [spreadsheet template](files/decision-matrix.xlsx) for the matrix is here; use it, or any spreadsheet, or a table typed into the submission box.
 
 **The problem.** Your group runs a small company. A customer wants a way to keep a bicycle dry and secure outside an apartment building in Oregon, year round. Budget is $300.
 
@@ -36,14 +36,14 @@ Score each design 1 to 5 on each criterion. 5 is always the good end, including 
 
 Then answer: is the winner the design you would build? If not, is a weight wrong, or is your instinct wrong? Change a weight only if you can say what you learned.
 
-**One person posts for the group** to the In-Class Work 3 forum:
+**Each of you submits the group's answer.** Type it into the Moodle submission box:
 
-- Subject line: the design that won
 - First line: everyone's full names
+- Second line: the design that won
 - Your specifications, one per line, each with a number and a unit
 - A description of each of your three designs
 - Anything you screened out, and which specification it failed
 - The matrix: criteria with weights, scores 1 to 5, and totals. Paste it in as a table, or attach a screenshot or photo of your spreadsheet
 - Did the matrix pick the design you actually wanted? If not, what did you do about it? A few sentences
 
-**Grading.** Everyone named in the post gets the same score. If your name is not in a post, you get no credit for that session, so check the names before you post. Grading and the AI policy are in the [syllabus](syllabus.html). Specific to this one: a specification without a number does not count, and three designs that fail the same way count as one. I read the last item most closely.
+**Grading.** Everyone in the group gets the same score. If you do not submit, you get no credit for that session. Grading and the AI policy are in the [syllabus](syllabus.html). Specific to this one: a specification without a number does not count, and three designs that fail the same way count as one. I read the last item most closely.
