@@ -16,6 +16,8 @@ Your group has a customer. The customer has told you what they want, but not in 
 - Room 3: "I need to keep my greenhouse from freezing."
 - Room 4: "The crosswalk by the elementary school isn't safe."
 - Room 5: "I want a phone mount for my car that doesn't suck."
+- Room 6: "The bus stop by my house has no shelter, and it rains all winter."
+- Room 7: "My dog keeps getting out of the yard."
 
 Work through four things:
 

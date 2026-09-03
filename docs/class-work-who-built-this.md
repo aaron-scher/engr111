@@ -14,6 +14,8 @@ layout: default
 - Room 3: Insulin pump
 - Room 4: Wildfire surveillance drone
 - Room 5: Passenger elevator in a 40-story building
+- Room 6: Amusement park roller coaster
+- Room 7: Grid-scale battery storage site
 
 Answer two questions:
 
