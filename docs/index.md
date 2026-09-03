@@ -37,7 +37,6 @@ Instructor: Dr. Scher
 - [In-Class Work 6: Project Checkpoint](class-work-project-checkpoint.html)
 - [In-Class Work 7: Project Build Status and Risk](class-work-build-status.html)
 - [In-Class Work 8: Project Presentation Dry Run](class-work-presentation-dry-run.html)
-- [Peer Resume Review (ungraded)](breakout-peer-resume-review.html)
 
 ## Project
 

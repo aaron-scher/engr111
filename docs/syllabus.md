@@ -118,7 +118,7 @@ Anything beyond that is covered by CCC's Student Code of Conduct, which defines 
 
 ## Schedule
 
-Lectures are numbered by session; the Wednesdays without a lecture are in-class work only. Assignments are due at 11:59 PM Pacific on the day shown. Submit your in-class work before the session ends; the box stays open until 11:59 PM that night in case your room runs long. Half the class presents on December 2 and half on December 9; the groups are assigned in Moodle.
+Lectures are numbered by session; the Wednesdays without a lecture are in-class work only. Assignments are due at 11:59 PM Pacific on the day shown. Submit your in-class work before the session ends; the box stays open until 11:59 PM that night in case your room runs long. Presentations run across three sessions, November 30, December 2, and December 9; the groups are assigned in Moodle.
 
 | Date | Lecture | In class | Due |
 |:--|:--|:--|:--|
@@ -146,9 +146,9 @@ Lectures are numbered by session; the Wednesdays without a lecture are in-class 
 | Fri Nov 20 |  |  | [Final paper: Design Your Process](final-paper.html) |
 | Mon Nov 23 | [16 · Presenting Technical Information](lectures/lecture-16-presenting-technical-information.pdf) |  |  |
 | Wed Nov 25 | none | [In-Class Work 8: Project Presentation Dry Run](class-work-presentation-dry-run.html) · open half hour |  |
-| Mon Nov 30 | [18 · What Comes Next](lectures/lecture-18-what-comes-next.pdf) | [Resume review in pairs, ungraded](breakout-peer-resume-review.html) | [Measure and Plot Assignment 1](homework-measure-convert-plot.html) |
-| Wed Dec 2 | none | **[Project presentations and demos, Group A](project-presentation-and-demo.html)**, six minutes plus questions each | [Slides, before your slot](project-presentation-and-demo.html) |
-| Wed Dec 9, 8:00 | none | **[Project presentations and demos, Group B](project-presentation-and-demo.html)** | [Slides, before your slot](project-presentation-and-demo.html) |
+| Mon Nov 30 | [18 · What Comes Next](lectures/lecture-18-what-comes-next.pdf), short | **[Project presentations and demos, Group A](project-presentation-and-demo.html)** | [Measure and Plot Assignment 1](homework-measure-convert-plot.html) |
+| Wed Dec 2 | none | **[Project presentations and demos, Group B](project-presentation-and-demo.html)**, six minutes plus questions each | [Slides, before your slot](project-presentation-and-demo.html) |
+| Wed Dec 9, 8:00 | none | **[Project presentations and demos, Group C](project-presentation-and-demo.html)** | [Slides, before your slot](project-presentation-and-demo.html) |
 | Fri Dec 11 |  |  | [Project: Final Report](project-specification.html) |
 
 This schedule and syllabus are subject to revision at the instructor's discretion; changes are announced in Moodle.
