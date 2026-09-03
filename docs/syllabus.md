@@ -36,7 +36,7 @@ Landis, Peuker, and Mott, *Studying Engineering: A Road Map to a Rewarding Caree
 
 ## How the course works
 
-Monday is a lecture. Wednesday is a short lecture and then in-class work in small breakout rooms, posted to a Moodle forum by one person per group. Cameras are encouraged, especially in breakout rooms; if yours is off, please put a photo on your Zoom profile so the tile isn't blank.
+Monday is a lecture. Wednesday is a short lecture and then in-class work in small breakout rooms; each of you submits the group's answer in Moodle. Cameras are encouraged, especially in breakout rooms; if yours is off, please put a photo on your Zoom profile so the tile isn't blank.
 
 **No recording.** I don't record sessions: I ask questions during the lecture and the real work happens in the breakout rooms, and neither works well when people know they're being recorded. Don't record the class yourself without asking me first; if you have a DRC accommodation that involves recording, you don't need to ask.
 
@@ -60,7 +60,7 @@ Every in-class work counts; nothing is dropped. There are no quizzes or exams.
 
 **How assignments are graded.** Homework and in-class work are graded on the quality of your thinking and on good-faith effort. I want to see that you are engaging with the material and learning from it: answers at the college level, backed up by your reading, your numbers, or your reasoning. Work that is thin gets partial credit: questions skipped, a list with nothing behind it, or a post that could have been written without doing the reading or the activity.
 
-In-class work is done in groups during the session and posted once, by one person, to that session's forum. I expect every member of the group to contribute. Everyone named in the post gets the same score. If your name is not in the post, you get no credit for that session, so check the names before it goes up. Times given for in-class work are approximate; I set the clock in the session. Some days we come back together after the rooms close and go through the posts; I will tell you in the session whether we are doing that, so be ready to speak for your group. In-class work cannot be made up, because it is group work done live; that is the attendance policy.
+In-class work is done in groups during the session. The group agrees on one answer and every member submits that same answer, with everyone's names on it. I expect every member of the group to contribute. Everyone in the group gets the same score; if you do not submit, you get no credit for that session. Times given for in-class work are approximate; I set the clock in the session. Some days we come back together after the rooms close and go through the answers; I will tell you in the session whether we are doing that, so be ready to speak for your group. In-class work cannot be made up, because it is group work done live; that is the attendance policy.
 
 The two Conversation Assignments (the adviser meeting and the informational interview) are worth more and have one extra rule: no meeting, no credit.
 
@@ -68,7 +68,7 @@ The project pieces and the final paper are graded on the rubric shown with each 
 
 **Late work.** Work up to a week late loses 20%. After a week, it's a zero. After the term is over, it's a zero; I will not grade anything after the term ends. You don't need to tell me why something is late.
 
-Two things work differently. The presentation: your slot is your slot. The final report: the due date is final, because grades are due. One consequence worth knowing: a late proposal follows the normal rule, but my feedback on it will not be back in time for the checkpoint session.
+Three things work differently. In-class work: the box closes for good the night after the session, because it is group work done live. The presentation: your slot is your slot. The final report: the due date is final, because grades are due. One consequence worth knowing: a late proposal follows the normal rule, but my feedback on it will not be back in time for the checkpoint session.
 
 ## Using AI
 
@@ -118,7 +118,7 @@ Anything beyond that is covered by CCC's Student Code of Conduct, which defines 
 
 ## Schedule
 
-Lectures are numbered by session; the Wednesdays without a lecture are in-class work only. Assignments are due at 11:59 PM Pacific on the day shown. Post your in-class work before the session ends; the forum stays open until 11:59 PM that night in case your room runs long. Half the class presents on December 2 and half on December 9; the groups are assigned in Moodle.
+Lectures are numbered by session; the Wednesdays without a lecture are in-class work only. Assignments are due at 11:59 PM Pacific on the day shown. Submit your in-class work before the session ends; the box stays open until 11:59 PM that night in case your room runs long. Half the class presents on December 2 and half on December 9; the groups are assigned in Moodle.
 
 | Date | Lecture | In class | Due |
 |:--|:--|:--|:--|
