@@ -18,7 +18,7 @@ You will present your finished project to the class, live over Zoom: the thing y
 
 **If it doesn't work, present it anyway.** Explain what went wrong and what you would change. That scores better than claiming it works with no evidence.
 
-**Slides.** Use them, and upload them before your slot. Include at least one diagram of how the thing works (a block diagram, schematic, flow chart, or drawing, made with software) and a plot or table of your test results. Figures need axis labels with units, legibility at screen size, readability in grayscale, and no chart junk.
+**Slides.** Use them, and upload them before your slot. Slides that are not uploaded lose 10% of the presentation grade. Include at least one diagram of how the thing works (a block diagram, schematic, flow chart, or drawing, made with software) and a plot or table of your test results. Figures need axis labels with units, legibility at screen size, readability in grayscale, and no chart junk.
 
 **How it's graded**
 
