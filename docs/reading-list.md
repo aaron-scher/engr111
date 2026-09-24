@@ -23,5 +23,5 @@ Landis, Peuker and Mott, *Studying Engineering: A Road Map to a Rewarding Career
 ## Three errors in the book
 
 - **Page 65** says the discipline descriptions are in "Appendix D." They are in **Appendix E**.
-- **The three keys to success** are Effort, Approach, and Attitude. Page 7 explains Approach as "work smart." Page 19 explains it as "work efficiently." Same key, two wordings.
+- **The three keys to success** are Effort, Approach, and Attitude. Page 7 explains Approach as "work smart." Page 19 explains it as "work efficiently." The book means the same thing both times; it just says it two different ways.
 - **The NASA box in 6.6** (p.205) calls the Mars Climate Orbiter a "Mars Rover." It was an orbiter, lost before orbital insertion.
