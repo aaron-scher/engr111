@@ -11,6 +11,8 @@ layout: default
 
 **Class meetings:** Monday and Wednesday, 8:30 to 9:50 AM Pacific, on Zoom. The Zoom link is in Moodle. First session Monday, September 28. Final session Wednesday, December 9, **8:00 to 9:50** (note the earlier start).
 
+**Office hour:** Monday 9:50 to 10:50 AM Pacific, by appointment. Email me before class on Monday and I will stay on the class Zoom after the session.
+
 **Prerequisite or corequisite:** MTH-111Z or higher.
 
 **Catalog description.** Introduction to the basic ideas and tools of the engineering profession. An exploration of career and education options within the field, and the skills needed to achieve career goals. Methods of engineering analysis, design, and problem solving culminating in a design project. The class will cover all facets of engineering design, including background research, requirement specification and prioritization, development, prototype construction, testing, and evaluation for future redesigns.
