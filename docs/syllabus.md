@@ -11,7 +11,7 @@ layout: default
 
 **Class meetings:** Monday and Wednesday, 8:30 to 9:50 AM Pacific, on Zoom. The Zoom link is in Moodle. First session Monday, September 28. Final session Wednesday, December 9, **8:00 to 9:50** (note the earlier start).
 
-**Office hour:** Monday 9:50 to 10:50 AM Pacific, by appointment. Email me before class on Monday and I will stay on the class Zoom after the session.
+**Office hours:** Monday and Wednesday, 9:50 to 10:20 AM Pacific, by appointment. Email me before class and I will stay on the class Zoom after the session.
 
 **Prerequisite or corequisite:** MTH-111Z or higher.
 
