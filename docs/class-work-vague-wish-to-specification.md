@@ -26,9 +26,9 @@ Work through four things:
 3. **Write three criteria**, ranked. These are how you'd choose between designs that all pass the constraints
 4. **Name one thing you'd need to go find out** before designing anything, and say how you'd find it. Measure something? Ask someone? Look up a standard?
 
-One person from each group will briefly share the group's customer, constraints, and criteria with the class afterward. It's ungraded; it's just so everyone hears the range of answers across the seven rooms.
+After I close the breakout rooms, we'll meet again in the main Zoom session. Pick one person to briefly share your group's answers with the class. We may discuss them for a few minutes.
 
-You will probably disagree about the numbers. That is normal. Deciding what the number should be, for example how much "must cost under X" is, is a design decision, and there is no answer key.
+You may disagree about the numbers, which is OK and expected. Deciding what the number should be, for example how much "must cost under X" is, is a design decision, and there is no answer key.
 
 **Each of you submits the group's answer.** Type it into the Moodle submission box:
 
