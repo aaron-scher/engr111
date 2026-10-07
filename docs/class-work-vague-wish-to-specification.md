@@ -5,7 +5,7 @@ layout: default
 
 # In-Class Work 2: From a Vague Wish to a Real Specification
 
-**We do this live in class.** You'll be in a small breakout room for about 35 minutes. I'll tell you the exact time in class.
+**We do this live in class.** You'll be in a small breakout room for about 15 minutes. I'll tell you the exact time in class.
 
 Your group has a customer. The customer has told you what they want, but not in a form you can design from.
 
@@ -25,6 +25,8 @@ Work through four things:
 2. **Write three constraints.** Pass/fail. **Each one needs a number and a unit.** If you can't put a number on it, it isn't a constraint yet; finding the number is part of the job
 3. **Write three criteria**, ranked. These are how you'd choose between designs that all pass the constraints
 4. **Name one thing you'd need to go find out** before designing anything, and say how you'd find it. Measure something? Ask someone? Look up a standard?
+
+One person from each group will briefly share the group's customer, constraints, and criteria with the class afterward. It's ungraded; it's just so everyone hears the range of answers across the seven rooms.
 
 You will probably disagree about the numbers. That is normal. Deciding what the number should be, for example how much "must cost under X" is, is a design decision, and there is no answer key.
 
