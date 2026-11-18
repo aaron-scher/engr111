@@ -66,7 +66,6 @@ Instructor: Dr. Scher
 - [Lecture 13: Ethics and Professional Licensure](lectures/lecture-13-ethics-and-professional-licensure.pdf)
 - [Lecture 14: Estimation, Measurement and Error](lectures/lecture-14-estimation-measurement-and-error.pdf)
 - [Lecture 16: Presenting Technical Information](lectures/lecture-16-presenting-technical-information.pdf)
-- [Lecture 18: What Comes Next](lectures/lecture-18-what-comes-next.pdf)
 
 ## Files
 

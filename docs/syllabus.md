@@ -148,7 +148,7 @@ Lectures are numbered by session; the Wednesdays without a lecture are in-class 
 | Fri Nov 20 |  |  | [Final paper: Design Your Process](final-paper.html) |
 | Mon Nov 23 | [16 · Presenting Technical Information](lectures/lecture-16-presenting-technical-information.pdf) |  |  |
 | Wed Nov 25 | none | [In-Class Work 8: Project Presentation Dry Run](class-work-presentation-dry-run.html) · open half hour |  |
-| Mon Nov 30 | [18 · What Comes Next](lectures/lecture-18-what-comes-next.pdf), short | **[Project presentations and demos, Group A](project-presentation-and-demo.html)** | [Measure and Plot Assignment 1](homework-measure-convert-plot.html) |
+| Mon Nov 30 | none | **[Project presentations and demos, Group A](project-presentation-and-demo.html)** | [Measure and Plot Assignment 1](homework-measure-convert-plot.html) |
 | Wed Dec 2 | none | **[Project presentations and demos, Group B](project-presentation-and-demo.html)**, six minutes plus questions each | [Slides, before your slot](project-presentation-and-demo.html) |
 | Wed Dec 9, 8:00 | none | **[Project presentations and demos, Group C](project-presentation-and-demo.html)** | [Slides, before your slot](project-presentation-and-demo.html) |
 | Fri Dec 11 |  |  | [Project: Final Report](project-specification.html) |
