@@ -27,10 +27,16 @@ In short: measure one thing ten times, work out the average and the spread, conv
 
 2a. Convert your mean to the other unit system: SI if you measured in US customary units, US customary if you measured in SI (for example, 1.20 kg = 2.65 lb). Show the conversion, then one sentence on whether the number is sane.
 
-**3. Plot.** Make two figures. Any tool is fine (Excel, Google Sheets, Python, etc.), but say which one you used and how.
+**3. Plot.** Make two figures:
 
-Under each figure, write a caption of one or two sentences: what the figure shows, and why you picked that type of chart. Both figures also need:
+- **Figure 1:** your own ten readings from section 1 (details in 3a)
+- **Figure 2:** the ball-drop data in the table below (details in 3b)
 
+Any tool is fine (Excel, Google Sheets, Python, etc.), but say which one you used and how.
+
+Both figures need:
+
+- a caption under the figure, one or two sentences: what it shows, and why you picked that type of chart
 - axis labels with units, for example "Time (s)"
 - text large enough to read at the size you submit
 - to still make sense printed in black and white, so don't rely on color alone to tell things apart
